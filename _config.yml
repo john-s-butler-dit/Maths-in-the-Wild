@@ -5,4 +5,5 @@ markdown: kramdown
 # Navigation menu items
 header_pages:
   - 01_Predator_Prey/index.md
+  - 02_NeuroAI/index.md
   - about.md
