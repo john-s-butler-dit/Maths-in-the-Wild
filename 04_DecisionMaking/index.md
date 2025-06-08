@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Predator Prey
-permalink: /01_Predator_Prey/
+title: Decision Making
+permalink: /04_DecisionMaking/
 ---
 
 
-The workshop is about how data and
-maths can be used to model a
-predator-prey relationship. The maths
-cannot not only recreate the observations
-and be used to model if is there is a change
-in the environment like the reintroduction of
-Wolves into Ireland.
+This workshop shows how even making
+simple decisions like whether to go left or
+right can be modelled and predicted using
+maths. The same formula has been used
+to model a particle moving in space.
