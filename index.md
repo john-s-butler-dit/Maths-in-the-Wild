@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Maths in the Wild
 ---
 
 This is the homepage for **Maths in the Wild**.
