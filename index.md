@@ -1,4 +1,4 @@
-# Welcome to Maths in the Wild
+
 This is the homepage for **Maths in the Wild**.
 
 ## Contents
