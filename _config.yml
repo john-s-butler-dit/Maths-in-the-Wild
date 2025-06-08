@@ -6,5 +6,4 @@ markdown: kramdown
 header_pages:
   - index.md
   - workshop.md
-  - assignments.md
   - about.md
