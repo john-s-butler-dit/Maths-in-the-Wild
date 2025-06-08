@@ -1,8 +1,9 @@
 ---
-layout: home
-title: Home
+layout: page
+title: Predator Prey
 ---
 
+## 
 The workshop is about how data and
 maths can be used to model a
 predator-prey relationship. The maths
