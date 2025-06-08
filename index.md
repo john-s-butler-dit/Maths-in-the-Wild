@@ -17,7 +17,10 @@ let us explore the world through math.</td>
 </tr>
 </table>
 
-
+<div style="display: flex; align-items: center;">
+ <img src="John.png" alt="John Butler" style="width:200px; height:200px; border-radius:50%;">
+  <p>This is the text beside the image. It will wrap nicely around it as needed.</p>
+</div>
 
 
 ## Workshops
