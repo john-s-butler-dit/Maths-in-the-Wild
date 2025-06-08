@@ -4,7 +4,5 @@ markdown: kramdown
 
 # Navigation menu items
 header_pages:
-  - index.md
-  - workshop.md
   - 01_Predator_Prey/index.md
   - about.md
