@@ -1,3 +1,7 @@
+---
+layout: home
+title: Home
+---
 
 The workshop is about how data and
 maths can be used to model a
