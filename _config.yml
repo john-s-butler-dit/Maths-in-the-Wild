@@ -6,4 +6,6 @@ markdown: kramdown
 header_pages:
   - 01_Predator_Prey/index.md
   - 02_NeuroAI/index.md
-  - about.md
+  - 03_Multisensory/index.md
+  - 04_DecisionMaking/index.md
+  - 05_EigenFaces/index.md
