@@ -23,7 +23,13 @@ let us explore the world through math.
 <table>
 <tr>
 <td><img src="John.png" alt="Image" width="150"/></td>
-<td>This is the text that goes beside the image. You can write multiple lines here if needed.</td>
+<td>The workshops were written by 
+[John Butler](https://johnsbutler.netlify.app), 
+a maths lecturer at Technological
+University Dublin. John combines his knowledge
+of mathematics and neuroscience to create
+experiments and analysis techniques that
+let us explore the world through math.</td>
 </tr>
 </table>
 
