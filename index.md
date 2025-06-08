@@ -8,7 +8,9 @@ title: Maths in the Wild
 
 <table>
 <tr>
-<td>The workshops were written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at Technological
+<td>The workshops were written by 
+[John Butler](https://johnsbutler.netlify.app), 
+a maths lecturer at Technological
 University Dublin. John combines his knowledge
 of mathematics and neuroscience to create
 experiments and analysis techniques that
