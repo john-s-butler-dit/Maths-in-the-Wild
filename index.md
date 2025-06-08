@@ -22,7 +22,7 @@ let us explore the world through math.
 
 <table>
 <tr>
-<td><img src="John.png" alt="Image" width="150"/></td>
+<td><img src="John.png" alt="Image" width="150;border-radius:50%;"/></td>
 <td>The workshops were written by 
 [John Butler](https://johnsbutler.netlify.app), 
 a maths lecturer at Technological
