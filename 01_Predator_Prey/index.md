@@ -19,6 +19,8 @@ Wolves into Ireland.
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
+[Predator Prey Worksheet](Maths_in_the_Wild_Predator_Prey_Worksheet.pdf)
+
 
 ## References
 
