@@ -7,6 +7,7 @@ title: Maths in the Wild
 **Maths in the Wild** consists of five workshops designed for primary and secondary school students. Participants engage in interactive experiments and mathematical calculations, allowing them to experience firsthand how maths and science, mainly neuroscience, are applied in exploring and understanding our surroundings.
 
 
+<img src="John.png" alt="description" style="width:200px; height:200px; border-radius:50%;">
 
 The workshops were written by John Butlerm a maths lecturer at Technological
 University Dublin. John combines his knowledge
