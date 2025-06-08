@@ -5,6 +5,6 @@ markdown: kramdown
 # Navigation menu items
 header_pages:
   - index.md
-  - lectures.md
+  - workshop.md
   - assignments.md
   - about.md
