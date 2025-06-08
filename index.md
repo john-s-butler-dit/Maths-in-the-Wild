@@ -20,10 +20,12 @@ let us explore the world through math.
 </tr>
 </table>
 
-<div style="display: flex; align-items: center;">
- <img src="John.png" alt="John Butler" style="width:200px; height:200px; border-radius:50%;">
-  <p>This is the text beside the image. It will wrap nicely around it as needed.</p>
-</div>
+<table>
+<tr>
+<td><img src="John.png" alt="Image" width="150"/></td>
+<td>This is the text that goes beside the image. You can write multiple lines here if needed.</td>
+</tr>
+</table>
 
 
 ## Workshops
