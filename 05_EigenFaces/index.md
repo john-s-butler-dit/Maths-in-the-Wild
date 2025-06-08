@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Predator Prey
-permalink: /01_Predator_Prey/
+title: Face Recognition
+permalink: /05_EigenFaces/
 ---
 
 
-The workshop is about how data and
-maths can be used to model a
-predator-prey relationship. The maths
-cannot not only recreate the observations
-and be used to model if is there is a change
-in the environment like the reintroduction of
-Wolves into Ireland.
+This workshop explores the connections
+between portrait painting, maths, and
+neuroscience in recognizing faces, and
+how these insights feed into machine
+learning for pattern recognition.
