@@ -1,3 +1,7 @@
+---
+layout: home
+title: Home
+---
 
 This is the homepage for **Maths in the Wild**.
 
