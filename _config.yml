@@ -1,0 +1,10 @@
+title: My Teaching Site
+theme: minima
+markdown: kramdown
+
+# Navigation menu items
+header_pages:
+  - index.md
+  - lectures.md
+  - assignments.md
+  - about.md
