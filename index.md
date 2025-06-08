@@ -13,19 +13,6 @@ University Dublin. John combines his knowledge
 of mathematics and neuroscience to create
 experiments and analysis techniques that
 let us explore the world through maths.
-<table>
-<tr>
-<td><img src="John.png" alt="Image" width="150" border-radius="50%;"/></td>
-<td>The workshops were written by 
-John Butler, 
-a maths lecturer at Technological
-University Dublin. John combines his knowledge
-of mathematics and neuroscience to create
-experiments and analysis techniques that
-let us explore the world through maths.</td>
-</tr>
-</table>
-
 
 ## Workshops
 1. [Predator Prey](01_Predator_Prey/index.md)
