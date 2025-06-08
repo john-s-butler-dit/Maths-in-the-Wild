@@ -17,7 +17,7 @@ let us explore the world through maths.
 <tr>
 <td><img src="John.png" alt="Image" width="150" border-radius="50%;"/></td>
 <td>The workshops were written by 
-[John Butler](https://johnsbutler.netlify.app), 
+John Butler, 
 a maths lecturer at Technological
 University Dublin. John combines his knowledge
 of mathematics and neuroscience to create
