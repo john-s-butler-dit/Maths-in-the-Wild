@@ -19,11 +19,11 @@ for self-driving cars.
 
 <img src="Maths_in_the_Wild_MachineLearning.gif" alt="Dancing Cat" width="450"/>
 
-[Predator Prey Slides](Maths_in_the_Wild_MachineLearning.pptx)
+[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
 ### Worksheet
 
-[Predator Prey Worksheet](Maths_in_the_Wild_Predator_Prey_Worksheet.docx)
+[Machine Learning Worksheet](Maths_in_the_Wild_MachineLearningWorksheet.pdf)
 
 
 ## References

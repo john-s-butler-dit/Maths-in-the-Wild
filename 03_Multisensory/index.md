@@ -15,8 +15,15 @@ escape from bears!
 
 ## Materials
 
-Slides 
-Worksheet
+### Slides
+
+<img src="Maths_in_the_Wild_Multisensory.gif" alt="Dancing Cat" width="450"/>
+
+[Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
+
+### Worksheet
+
+[Multisensory Worksheet](Maths_in_the_Wild_MultisensoryWorksheet.pdf)
 
 
 
