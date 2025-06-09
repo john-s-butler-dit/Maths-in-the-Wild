@@ -23,7 +23,7 @@ for self-driving cars.
 
 ### Worksheet
 
-[Machine Learning Worksheet](Maths_in_the_Wild_MachineLearning_Worksheet.docx)
+[Machine Learning Worksheet](Maths_in_the_Wild_MachineLearningWorksheet.pdf)
 
 
 ## References
