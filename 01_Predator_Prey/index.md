@@ -22,7 +22,7 @@ Wolves into Ireland.
 
 ## Materials
 
-### Slides
+### Slides
 
 <img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Dancing Cat" width="450"/>
 
