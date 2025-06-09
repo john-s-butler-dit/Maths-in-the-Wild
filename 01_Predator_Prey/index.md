@@ -15,6 +15,7 @@ Wolves into Ireland.
 
 
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/e21ae451-688b-4cf9-9e83-954f8755988b" />
+
 (A) The number of hare pelts collected (in tens of thousands) over time. (B) The number of lynx pelts collected (in tens of thousands) over time, inferred from Hudson Bay Company data from 1895 to 1935
 
 
