@@ -26,6 +26,12 @@ Each workshop has a presentation, a video, some code and worksheet, which is fre
 ![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
 
 
-<iframe width="315"
-src="https://youtube.com/shorts/najLpsySkio?si=r9WmtoV5vOf9tv6u"
-frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="360" height="640" 
+        src="https://www.youtube.com/embed/najLpsySkio?si=r9WmtoV5vOf9tv6u"
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
