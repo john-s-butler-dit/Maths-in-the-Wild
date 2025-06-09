@@ -23,3 +23,8 @@ to model a particle moving in space.
 ### Worksheet
 
 [Multisensory Worksheet](Maths_in_the_Wild_DecisionMaking.docx)
+
+
+## References
+
+Hoxha, I., Mudrik, N., Urai, A. E., Kienigiel, D., Forest, J., Abdelhack, M., Peters, M., Halper, N., Zhang, R.-Y., Lu, X., & Butler, J. S. (2023, August 24–27). Opening Computational Neuroscience to a Wider Audience: Virtual Escape Room for Kids [Poster presentation]. Conference on Cognitive Computational Neuroscience, Oxford, United Kingdom. https://doi.org/10.32470/CCN.2023.1197-0
