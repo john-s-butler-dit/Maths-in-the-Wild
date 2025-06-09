@@ -17,7 +17,7 @@ escape from bears!
 
 ### Slides
 
-<img src="Maths_in_the_Wild_Multisensory.gif" alt="Dancing Cat" width="450"/>
+<img src="Maths_in_the_Wild_Multisensory.gif" alt="Multisensory Slides" width="450"/>
 
 [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
 
