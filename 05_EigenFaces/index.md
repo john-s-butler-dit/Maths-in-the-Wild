@@ -29,3 +29,8 @@ learning for pattern recognition.
 [Multisensory Worksheet](Maths_in_the_FaceRecog.docs)
 
 
+## References
+
+McLoughlin, C. (2024, August 23). The Digital Mirror: TCIN and Dr John Butler at the Dublin Makers Festival, Richmond Barracks. Retrieved June 9, 2025, from https://www.cianmcloughlin.com/news/35-the-digital-mirror-tcin-and-dr-john-butler-at-the-dublin/ 
+
+
