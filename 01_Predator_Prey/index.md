@@ -14,8 +14,13 @@ in the environment like the reintroduction of
 Wolves into Ireland.
 
 
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/e21ae451-688b-4cf9-9e83-954f8755988b" />
+
+
+
 <img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Dancing Cat" width="300"/>
 
+## Materials
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
