@@ -16,6 +16,7 @@ for self-driving cars.
 ## Materials
 
 ### Slides
+
 <img src="Maths_in_the_Wild_MachineLearning.gif" alt="Dancing Cat" width="450"/>
 
 [Predator Prey Slides](Maths_in_the_Wild_MachineLearning.pptx)
