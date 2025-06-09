@@ -19,7 +19,7 @@ for self-driving cars.
 
 <img src="Maths_in_the_Wild_MachineLearning.gif" alt="Dancing Cat" width="450"/>
 
-[Machline Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
+[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
 ### Worksheet
 
