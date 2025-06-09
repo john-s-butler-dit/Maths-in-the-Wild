@@ -19,11 +19,15 @@ Wolves into Ireland.
 (A) The number of hare pelts collected (in tens of thousands) over time. (B) The number of lynx pelts collected (in tens of thousands) over time, inferred from Hudson Bay Company data from 1895 to 1935
 
 
-<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Dancing Cat" width="450"/>
 
 ## Materials
 
+### Slides
+<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Dancing Cat" width="450"/>
+
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
+
+### Worksheet
 
 [Predator Prey Worksheet](Maths_in_the_Wild_Predator_Prey_Worksheet.pdf)
 
