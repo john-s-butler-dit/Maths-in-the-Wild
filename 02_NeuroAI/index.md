@@ -11,11 +11,19 @@ wild—along with maths, have sparked the
 creation of machine learning algorithms
 for self-driving cars.
 
+
+
 ## Materials
 
-### Slides
+### Slides
+<img src="Maths_in_the_Wild_MachineLearning.gif" alt="Dancing Cat" width="450"/>
+
+[Predator Prey Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
 ### Worksheet
+
+[Predator Prey Worksheet](Maths_in_the_Wild_Predator_Prey_Worksheet.docx)
+
 
 ## References
 
