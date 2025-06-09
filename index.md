@@ -24,3 +24,8 @@ let us explore the world through maths.
 Each workshop has a presentation, a video, some code and worksheet, which is freely available for anyone who wants to use them.
 
 ![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
+
+
+<iframe width="315"
+src="https://youtube.com/shorts/najLpsySkio?si=r9WmtoV5vOf9tv6u"
+frameborder="0" allowfullscreen></iframe>
