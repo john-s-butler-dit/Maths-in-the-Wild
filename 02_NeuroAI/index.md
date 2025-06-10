@@ -17,7 +17,7 @@ for self-driving cars.
 
 ### Slides
 
-<img src="Maths_in_the_Wild_MachineLearning.gif" alt="Dancing Cat" width="450"/>
+<img src="Maths_in_the_Wild_MachineLearning.gif" alt="Machine Learning Slides" width="450"/>
 
 [Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
