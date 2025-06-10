@@ -16,13 +16,13 @@ to model a particle moving in space.
 
 ### Slides
 
-<img src="Maths_in_the_Wild_Multisensory.gif" alt="Decision Making" width="450"/>
+<img src="Maths_in_the_Wild_DecisionMaking.gif" alt="Decision Making" width="450"/>
 
-[Multisensory Slides](Maths_in_the_Wild_DecisionMaking.pptx)
+[Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx)
 
 ### Worksheet
 
-[Multisensory Worksheet](Maths_in_the_Wild_DecisionMaking.docx)
+[Decision Making Worksheet](Maths_in_the_Wild_DecisionMaking.docx)
 
 
 ## References
