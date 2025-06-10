@@ -35,3 +35,5 @@ Each workshop has a presentation, a video, some code and worksheet, which is fre
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
+
+[Feedback form](https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u&topview=Prefill)
