@@ -24,9 +24,11 @@ learning for pattern recognition.
 
 [Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)
 
-### Worksheet
+### Worksheets
 
-[Multisensory Worksheet](Maths_in_the_FaceRecog.docs)
+[Face Recognition Art Worksheet](Maths_in_theWild_FaceRecogWorksheet.pdf)
+
+[Face Recognition Maths Worksheet](DigitalMirror_handout.pdf)
 
 
 ## References
