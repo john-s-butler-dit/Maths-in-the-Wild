@@ -22,7 +22,7 @@ to model a particle moving in space.
 
 ### Worksheet
 
-[Decision Making Worksheet](Maths_in_the_Wild_DecisionMaking.pdf)
+[Decision Making Worksheet](Maths_in_the_Wild_DecisionMakingWorksheet.pdf)
 
 
 ## References
