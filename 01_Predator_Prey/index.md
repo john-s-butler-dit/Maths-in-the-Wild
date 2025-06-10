@@ -24,13 +24,13 @@ Wolves into Ireland.
 
 ### Slides
 
-<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Dancing Cat" width="450"/>
+<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Predator Prey" width="450"/>
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
 ### Worksheet
 
-[Predator Prey Worksheet](Maths_in_the_Wild_Predator_Prey_Worksheet.pdf)
+[Predator Prey Worksheet](Maths_in_the_Wild_Predator_PreyWorksheet.pdf)
 
 
 ## References
