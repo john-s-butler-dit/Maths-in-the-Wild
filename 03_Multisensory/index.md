@@ -11,6 +11,8 @@ multiple senses, such as sight and
 balance, for walking or even make a quick
 escape from bears!
 
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/2daa81e2-b5e9-43ca-a2db-e324dfb33192" />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8XfjWYMzmk?si=oLEUArvUWvJWDz0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Materials
