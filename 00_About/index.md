@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Introduction
 permalink: /00_About/
 ---
 
 
-These workshops 
+Before starting the workshop introduce yourself, what your day is, what you research. 
 
 
 
