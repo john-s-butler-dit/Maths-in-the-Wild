@@ -36,7 +36,4 @@ Each workshop has a presentation, a video, some code and worksheet, which is fre
         allowfullscreen>
 </iframe>
 
-[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u)
-
-
-[Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)
+[Student Feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u)
