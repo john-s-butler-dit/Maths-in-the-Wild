@@ -15,25 +15,13 @@ Before starting the workshop introduce yourself, what your day is, what you rese
 
 <p align="left">
   <img src="../John.png" alt="Image" width="100" style="vertical-align: middle; margin-right: 10px;">
-  <span>The workshops were written by 
-[John Butler](https://johnsbutler.netlify.app), 
-a maths lecturer at Technological
-University Dublin. John combines his knowledge
-of mathematics and neuroscience to create
-experiments and analysis techniques that
-let us explore the world through maths.
-
+  <span>The workshops were written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at TechnologicalUniversity Dublin. John combines his knowledgeof mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths.
   </span>
 </p>
 
 | Image | Text |
 |-------|------|
-|   <img src="../John.png" alt="Image" width="100" style="vertical-align: middle; margin-right: 10px;">|   Scríobhadh na ceardlanna ag
-John Butler,
-léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath.
-Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht
-chun turgnaimh agus teicnící anailíse a chruthú
-a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
+|   <img src="../John.png" alt="Image" width="100" style="vertical-align: middle; margin-right: 10px;">|   Scríobhadh na ceardlanna agJohn Butler,léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
 
 ## Materials
 
