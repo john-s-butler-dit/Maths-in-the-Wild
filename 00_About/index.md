@@ -19,9 +19,8 @@ Before starting the workshop introduce yourself, what your day is, what you rese
   </span>
 </p>
 
-| Image | Text |
 |-------|------|
-|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   Scríobhadh na ceardlanna agJohn Butler,léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
+|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   Scríobhadh na ceardlanna ag John Butler, léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
 
 ## Materials
 
