@@ -13,11 +13,10 @@ Before starting the workshop introduce yourself, what your day is, what you rese
 
 
 
-<p align="left">
+
   <img src="../John.png" alt="Image" width="100" style="vertical-align: middle; margin-right: 10px;border-radius: 50%;">
   <span>The workshops were written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at TechnologicalUniversity Dublin. John combines his knowledgeof mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths.
-  </span>
-</p>
+
 
 |Name   | bio  |
 |-------|------|
