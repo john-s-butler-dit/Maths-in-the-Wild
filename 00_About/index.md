@@ -31,6 +31,10 @@ a ligeann dúinn an domhan a fhiosrú tríd an matamaitic.
   </span>
 </p>
 
+| Image | Text |
+|-------|------|
+|   <img src="../John.png" alt="Image" width="100" style="vertical-align: middle; margin-right: 10px;">| Your descriptive text goes here. |
+
 ## Materials
 
 ### Slides
