@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maths in the Wild
-permalink: /99_Misc/
+permalink: /99_Misc/01_Books/
 ---
 ![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
