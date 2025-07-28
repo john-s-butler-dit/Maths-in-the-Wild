@@ -55,7 +55,7 @@ permalink: /99_Misc/02_Papers/
 
 ## Maths Week 2022
 
-**� The Circle of Life: The Mathematics of Predator-Prey Relationships**  
+** The Circle of Life: The Mathematics of Predator-Prey Relationships**  
 *Rebecca Brady and John Butler*  
 [Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2021.651131)
 
