@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maths in the Wild
+title: Resources
 permalink: /99_Misc/
 ---
 ![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
