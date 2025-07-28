@@ -3,65 +3,68 @@ layout: page
 title: Papers
 permalink: /99_Misc/02_Papers/
 ---
-![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
+# 🧠 Maths Research for All  
+*Inspiring and accessible maths papers for all ages*
 
-# Book Suggestions
+## 📅 Maths Week 2024
 
-## Books for Maths Week 2024
+**🔹 Causality: Using Math to Understand the Science of Cause and Effect**  
+*Emmert-Streib F and Dehmer M (2023)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2023.1155100)  
+> Explore how mathematics helps scientists understand cause-and-effect relationships.
 
-- **Elements of Mathematics: From Euclid to Gödel**  
-  *by John Stillwell*  
-  A journey through the development of mathematical thought from classical to modern times.
+**🔹 Easy Or Hard? Basic Questions in Computational Complexity Theory**  
+*Segev N and Wigderson A (2024)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2023.1284284)  
+> A kid-friendly intro to what makes some computer problems hard and others easy.
 
-- **Classical Mechanics: The Theoretical Minimum**  
-  *by George Hrabovsky and Leonard Susskind*  
-  An accessible yet rigorous introduction to classical physics.
+**🔹 The Maths Behind a Perfect Cup of Coffee**  
+*By Kevin Moroney and Ken O’Connell, University of Limerick*  
+[RTE Article](https://www.rte.ie/)  
+> Discover how maths can make your coffee taste just right.
 
-- **Get in the Game: An Interactive Introduction to Sports Analytics**  
-  *by Tim Chartier, illustrated by Ansley Earle*  
-  A fun, engaging entry into the world of sports data and analytics.
-
-- **Death's End**  
-  *by Cixin Liu*  
-  A science fiction novel with deep scientific and philosophical themes.
-
----
-
-## Books for Maths Week 2023
-
-- **Falling Felines and Fundamental Physics**  
-  *by Gregory J. Gbur*  
-  A curious exploration of physics through the mysterious ability of cats to land on their feet.
-
-- **Once Upon a Prime**  
-  *by Sarah Hart*  
-  A literary journey through the connections between mathematics and storytelling.
-
-- **Logicomix: An Epic Search for Truth**  
-  *by Apostolos Doxiadis and Christos H. Papadimitriou*  
-  A graphic novel weaving biography and philosophy to explore the foundations of logic.
-
-- **Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson**  
-  *by Katherine Johnson*  
-  The inspiring story of one of NASA’s pioneering mathematicians.
+**🔹 Nobel Prize in Physics 2024**  
+[Popular Summary PDF](https://www.nobelprize.org)  
+> Celebrate the science honoured by the Nobel Prize, with mathematical insights.
 
 ---
 
-## Books for Maths Week 2022
+## 📅 Maths Week 2023
 
-- **Artificial Intelligence: A Guide for Thinking Humans**  
-  *by Melanie Mitchell*  
-  A balanced and accessible discussion of AI and its implications.
+**🔹 What Does Math Have to Do With Patterns in Fish?**  
+*Shirman B and Volkening A (2022)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.834049)
 
-- **The Art of Statistics: Learning from Data**  
-  *by David Spiegelhalter*  
-  An introduction to statistical thinking in the real world.
+**🔹 Understanding The Odds: Statistics in Public Health**  
+*Goodwin G and Ryu S (2023)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.926624)
 
-- **The Joy of X: A Guided Tour of Mathematics, from One to Infinity**  
-  *by Steven Strogatz*  
-  A delightful look at the beauty and relevance of mathematics.
+**🔹 Predict Who Your Friends Are?**  
+*Black A and West G (2023)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.820289)
 
-- **Fermat’s Last Theorem**  
-  *by Simon Singh*  
-  The dramatic story of solving one of the greatest puzzles in mathematics.
+**🔹 Puzzling Pentagons — How Many Ways Can We Cover a Flat Surface?**  
+*Mann C and McLoud-Mann J (2023)*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2023.953114)
+
+---
+
+## 📅 Maths Week 2022
+
+**🔹 The Circle of Life: The Mathematics of Predator-Prey Relationships**  
+*Rebecca Brady and John Butler*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2021.651131)
+
+**🔹 Using Mathematics to Become in Sync With the Brain**  
+*Micah Swartz and Leonid L. Rubchinsky*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.741510)
+
+**🔹 Finding Your Way: Shortest Paths on Networks**  
+*Teresa Rexin and Mason A. Porter*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2021.631045)
+
+**🔹 How Math Helps Us Predict Water Flows in Forests**  
+*Katarina Zabret, Mojca Šraj and John T. Van Stan II*  
+[Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.762009)
+
