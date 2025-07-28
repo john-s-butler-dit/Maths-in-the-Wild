@@ -7,6 +7,9 @@ permalink: /99_Misc/02_Papers/
 # 🧠 Maths Research for All  
 *Inspiring and accessible maths papers for all ages*
 
+![MATHSWEEK_PAPERS](https://github.com/user-attachments/assets/d08cf6cb-1aac-4d1f-9630-d9113cf54d18)
+
+
 ## 📅 Maths Week 2024
 
 **🔹 Causality: Using Math to Understand the Science of Cause and Effect**  
