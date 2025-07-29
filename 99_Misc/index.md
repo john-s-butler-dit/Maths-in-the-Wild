@@ -12,7 +12,7 @@ There loads of maths in the wild.
 
 ###  [🎬 Films and TV with Maths](./03_Films/)
 
-###  [# 🎧 Podcasts with Maths](./04_Podcasts/)
+###  [🎧 Podcasts with Maths](./04_Podcasts/)
 
 ![MATHSWEEK_TWEETS_for_gif](https://github.com/user-attachments/assets/1eaf226d-99d7-43f5-829e-ddfd515973ae)
 
