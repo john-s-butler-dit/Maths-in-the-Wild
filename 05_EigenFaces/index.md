@@ -5,7 +5,7 @@ permalink: /05_EigenFaces/
 ---
 
 
-This workshop is a collaboration between John and artist [Cian McLoughlin](https://www.cianmcloughlin.com) that xplores the intersection of art, neuroscience, mathematics, and machine learning through the evolution of portraiture and face recognition.
+This workshop is a collaboration between John and artist [Cian McLoughlin](https://www.cianmcloughlin.com) that explores the intersection of art, neuroscience, mathematics, and machine learning through the evolution of portraiture and face recognition.
 
 It connects:
 
