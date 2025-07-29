@@ -5,12 +5,15 @@ permalink: /05_EigenFaces/
 ---
 
 
-This workshop is a collaboration between John and artist [Cian McLoughlin](https://www.cianmcloughlin.com) that explores the connections
-between portrait painting, maths, and
-neuroscience in recognizing faces, and
-how these insights feed into machine
-learning for pattern recognition.
+This workshop is a collaboration between John and artist [Cian McLoughlin](https://www.cianmcloughlin.com) that xplores the intersection of art, neuroscience, mathematics, and machine learning through the evolution of portraiture and face recognition.
 
+It connects:
+
+- How artists try to capture the essence of a person,
+- How the brain recognises faces using the Fusiform Face Area (FFA),
+- How mathematics represents faces through dimensionality reduction,
+- How computers use Eigenfaces and machine learning to recognise and re-create faces.
+- The presentation culminates in the idea that only a few images are needed to form a mathematical “portrait” — an Eigenface — representing the essence of a person, not just their appearance.
 
 ![PHOTO-2024-08-26-11-12-45](https://github.com/user-attachments/assets/6b69d003-331a-4c0c-a731-6c9c9dfcfebd)
 
