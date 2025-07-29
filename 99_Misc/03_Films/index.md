@@ -3,10 +3,9 @@ layout: page
 title: Filam and TV
 permalink: /99_Misc/03_Films/
 ---
-![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
 
-*Exploring maths through cinema, storytelling, and science fiction*
+*Exploring maths through tv, cinema, and storytelling.*
 
 ---
 
@@ -57,4 +56,5 @@ permalink: /99_Misc/03_Films/
 > Tom Stoppard’s play intertwines chaos theory, landscape design, and time travel with elegant maths.
 
 ---
+![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
