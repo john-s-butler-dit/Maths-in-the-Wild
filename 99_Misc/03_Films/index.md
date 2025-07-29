@@ -6,62 +6,55 @@ permalink: /99_Misc/03_Films/
 ![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
 
-# Book Suggestions
-
-## Books for Maths Week 2024
-
-- **Elements of Mathematics: From Euclid to Gödel**  
-  *by John Stillwell*  
-  A journey through the development of mathematical thought from classical to modern times.
-
-- **Classical Mechanics: The Theoretical Minimum**  
-  *by George Hrabovsky and Leonard Susskind*  
-  An accessible yet rigorous introduction to classical physics.
-
-- **Get in the Game: An Interactive Introduction to Sports Analytics**  
-  *by Tim Chartier, illustrated by Ansley Earle*  
-  A fun, engaging entry into the world of sports data and analytics.
-
-- **Death's End**  
-  *by Cixin Liu*  
-  A science fiction novel with deep scientific and philosophical themes.
+*Exploring maths through cinema, storytelling, and science fiction*
 
 ---
 
-## Books for Maths Week 2023
+## Maths Week 2024
 
-- **Falling Felines and Fundamental Physics**  
-  *by Gregory J. Gbur*  
-  A curious exploration of physics through the mysterious ability of cats to land on their feet.
+**3 Body Problem**  
+> A sci-fi drama exploring advanced physics, game theory, and interstellar strategy. 
 
-- **Once Upon a Prime**  
-  *by Sarah Hart*  
-  A literary journey through the connections between mathematics and storytelling.
+**Taskmaster**  
+> A comedy panel show where problem-solving, lateral thinking, and creativity often take centre stage.
 
-- **Logicomix: An Epic Search for Truth**  
-  *by Apostolos Doxiadis and Christos H. Papadimitriou*  
-  A graphic novel weaving biography and philosophy to explore the foundations of logic.
+**The Farthest**  
+> An Irish made documentary on Voyager’s journey — maths, engineering, and awe-inspiring space science.
 
-- **Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson**  
-  *by Katherine Johnson*  
-  The inspiring story of one of NASA’s pioneering mathematicians.
+**Foundation**  
+> Epic adaptation of Isaac Asimov’s vision of "psychohistory" — a fictional mathematical science to predict the future.
 
 ---
 
-## Books for Maths Week 2022
+## Maths Week 2023
 
-- **Artificial Intelligence: A Guide for Thinking Humans**  
-  *by Melanie Mitchell*  
-  A balanced and accessible discussion of AI and its implications.
+**The Man Who Knew Infinity**  
+> Biopic of Indian mathematician Srinivasa Ramanujan and his collaboration with G.H. Hardy.
 
-- **The Art of Statistics: Learning from Data**  
-  *by David Spiegelhalter*  
-  An introduction to statistical thinking in the real world.
+**Mitchells vs the Machines**  
+> An animated adventure where AI and technology meet creativity, coding, and chaos.
 
-- **The Joy of X: A Guided Tour of Mathematics, from One to Infinity**  
-  *by Steven Strogatz*  
-  A delightful look at the beauty and relevance of mathematics.
+**A Trip to Infinity**  
+> A Netflix documentary with Steven Strogatz exploring the idea of infinity across mathematics, physics, and philosophy.
 
-- **Fermat’s Last Theorem**  
-  *by Simon Singh*  
-  The dramatic story of solving one of the greatest puzzles in mathematics.
+**Barbie and Oppenheimer**  
+> Two cultural blockbusters — explore identity, science, ethics, and how storytelling intersects with big ideas and social context.
+
+---
+
+## Maths Week 2022
+
+**A Beautiful Mind**  
+> The life of mathematician John Nash, his struggles with schizophrenia, and contributions to game theory.
+
+**Good Will Hunting**  
+> A story about hidden genius, mentorship, and the transformative power of mathematics.
+
+**The Simpsons**  
+> Written by a load of mathematicians packed with subtle and not-so-subtle mathematical jokes, references, and puzzles.
+
+**Arcadia**  
+> Tom Stoppard’s play intertwines chaos theory, landscape design, and time travel with elegant maths.
+
+---
+

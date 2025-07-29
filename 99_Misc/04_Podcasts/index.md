@@ -1,67 +1,50 @@
 ---
 layout: page
-title: Filam and TV
-permalink: /99_Misc/03_Films/
+title: Podcasts
+permalink: /99_Misc/04_Podcasts/
 ---
-![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
 
-
-# Book Suggestions
-
-## Books for Maths Week 2024
-
-- **Elements of Mathematics: From Euclid to Gödel**  
-  *by John Stillwell*  
-  A journey through the development of mathematical thought from classical to modern times.
-
-- **Classical Mechanics: The Theoretical Minimum**  
-  *by George Hrabovsky and Leonard Susskind*  
-  An accessible yet rigorous introduction to classical physics.
-
-- **Get in the Game: An Interactive Introduction to Sports Analytics**  
-  *by Tim Chartier, illustrated by Ansley Earle*  
-  A fun, engaging entry into the world of sports data and analytics.
-
-- **Death's End**  
-  *by Cixin Liu*  
-  A science fiction novel with deep scientific and philosophical themes.
+*Engaging conversations at the intersection of maths, science, and society*
 
 ---
 
-## Books for Maths Week 2023
+## Maths Week 2024
 
-- **Falling Felines and Fundamental Physics**  
-  *by Gregory J. Gbur*  
-  A curious exploration of physics through the mysterious ability of cats to land on their feet.
+**Uncharted with Hannah Fry**  
+> A journey through science and uncertainty with the acclaimed mathematician and broadcaster.
 
-- **Once Upon a Prime**  
-  *by Sarah Hart*  
-  A literary journey through the connections between mathematics and storytelling.
+**The Joy of Y**  
+> Explores the reasons behind the most interesting scientific and mathematical questions.
 
-- **Logicomix: An Epic Search for Truth**  
-  *by Apostolos Doxiadis and Christos H. Papadimitriou*  
-  A graphic novel weaving biography and philosophy to explore the foundations of logic.
-
-- **Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson**  
-  *by Katherine Johnson*  
-  The inspiring story of one of NASA’s pioneering mathematicians.
+**Complexity — Santa Fe Institute**  
+> Deep dives into systems thinking, emergence, and mathematical models of complexity.
 
 ---
 
-## Books for Maths Week 2022
+##  Maths Week 2023  
 
-- **Artificial Intelligence: A Guide for Thinking Humans**  
-  *by Melanie Mitchell*  
-  A balanced and accessible discussion of AI and its implications.
+**Not So Standard Deviations**  
+*With Roger Peng and Hilary Parker*  
+> Statistics, data science, and how they impact the real world.
 
-- **The Art of Statistics: Learning from Data**  
-  *by David Spiegelhalter*  
-  An introduction to statistical thinking in the real world.
+**The Function Room**  
+*Chats With Colm O’Regan*  
+> Humorous and insightful chats about maths in everyday life.
 
-- **The Joy of X: A Guided Tour of Mathematics, from One to Infinity**  
-  *by Steven Strogatz*  
-  A delightful look at the beauty and relevance of mathematics.
+**Futureproof**  
+*With Jonathan McCrea*  
+> Science, technology, and big ideas — often featuring maths-rich themes.
 
-- **Fermat’s Last Theorem**  
-  *by Simon Singh*  
-  The dramatic story of solving one of the greatest puzzles in mathematics.
+---
+
+## Maths Week 2022  
+
+**More or Less**  
+> Tim Harford investigates the numbers behind the news and everyday life.
+
+**The Joy of X**  
+> Mathematician Steven Strogatz talks to scientists about the role of maths in their lives.
+
+**A Problem Squared**  
+*With Matt Parker and Bec Hill*  
+> Solving listener-submitted problems using maths, logic, and humour.
