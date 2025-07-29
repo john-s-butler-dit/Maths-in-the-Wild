@@ -4,7 +4,7 @@ title: More Maths Resources
 permalink: /99_Misc/
 ---
 
-There's loads of maths in the wild. Here are some suggestions.
+There's loads of maths in the wild. Here are some suggestions from the last few maths weeks.
 
 ### [📚 Maths Books](./01_Books/)
 
