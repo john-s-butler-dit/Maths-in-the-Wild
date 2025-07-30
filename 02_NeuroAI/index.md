@@ -4,12 +4,17 @@ title: Machine Learning
 permalink: /02_NeuroAI/
 ---
 
-In this workshop, participants will explore
-how neuroscience studies on motion
-detection—think of a tiger prowling in the
-wild—along with maths, have sparked the
-creation of machine learning algorithms
-for self-driving cars.
+This interactive talk connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions — like whether to run from a tiger — and how computers are being taught to do the same.
+
+Topics include:
+
+- How neurons work individually and in networks.
+
+- How the brain processes visual information and makes decisions.
+
+- How these ideas are modelled in machine learning, using perceptrons, activation functions, and neural networks.
+
+- Applications of machine learning, from image recognition to driving.
 
 
 
