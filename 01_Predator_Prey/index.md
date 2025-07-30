@@ -4,10 +4,15 @@ title: Predator Prey
 permalink: /01_Predator_Prey/
 ---
 
+The workshop introduces students to mathematical modelling in ecology using predator-prey relationships. Through real-world examples like hares and lynx, students explore how populations grow, interact, and decline depending on food sources and predation.
 
-The workshop is about how data and
-maths can be used to model a
-predator-prey relationship. The maths
+The core focus is on:
+
+- The Lotka-Volterra equations for population dynamics
+- How maths can model natural systems
+- The importance of balance between species
+
+The maths
 cannot not only recreate the observations
 and be used to model if is there is a change
 in the environment like the reintroduction of
