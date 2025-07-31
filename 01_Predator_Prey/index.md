@@ -8,13 +8,15 @@ The workshop introduces students to mathematical modelling in ecology using pred
 
 The core focus is on:
 
-- The Lotka-Volterra equations for population dynamics
+- The maths of population growth
+- The maths of population extinction
+- The equations for population dynamics
 - How maths can model natural systems
 - The importance of balance between species
 
 The maths
 cannot not only recreate the observations
-and be used to model if is there is a change
+but also be used to model if there is a change
 in the environment like the reintroduction of
 Wolves into Ireland.
 
