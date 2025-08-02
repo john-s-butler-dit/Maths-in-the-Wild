@@ -56,5 +56,4 @@ permalink: /99_Misc/03_Films/
 > Tom Stoppard’s play intertwines chaos theory, landscape design, and time travel with elegant maths.
 
 ---
-![MATHSWEEK_BOOKS](https://github.com/user-attachments/assets/2038cfc4-1e51-4236-ae9d-c4df99c1ac92)
-
+![MATHSWEEK_Films](https://github.com/user-attachments/assets/1f28494a-f98f-4362-a85b-44a1ad87ade4)
