@@ -6,7 +6,6 @@ permalink: /99_Misc/02_Papers/
 
 *Inspiring and accessible maths papers for all ages*
 
-![MATHSWEEK_PAPERS](https://github.com/user-attachments/assets/d08cf6cb-1aac-4d1f-9630-d9113cf54d18)
 
 
 ## Maths Week 2024
@@ -69,4 +68,7 @@ permalink: /99_Misc/02_Papers/
 **How Math Helps Us Predict Water Flows in Forests**  
 *Katarina Zabret, Mojca Šraj and John T. Van Stan II*  
 [Frontiers for Young Minds](https://kids.frontiersin.org/articles/10.3389/frym.2022.762009)
+
+![MATHSWEEK_PAPERS](https://github.com/user-attachments/assets/d08cf6cb-1aac-4d1f-9630-d9113cf54d18)
+
 
