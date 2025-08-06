@@ -4,7 +4,7 @@ title: More Maths Resources
 permalink: /99_Misc/
 ---
 
-Maths is everywhere in the wild. Here are some suggestions from the last few maths weeks.
+Maths is everywhere in the wild. There are loads of way of learning about like reading, watching and listening about it. Here are some suggestions from the last few Maths Weeks.
 
 - [Books with a bit of Maths](./01_Books/)
 
