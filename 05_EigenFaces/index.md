@@ -29,7 +29,7 @@ It connects:
 
 ### Worksheets
 
-[Face Recognition Maths Worksheet](Maths_in_theWild_FaceRecogWorksheet.pdf)
+[Face Recognition Maths Worksheet](Maths_in_theWild_FaceRecogWorksheet.pdf) [Example Solution](Maths_in_theWild_FaceRecogWorksheet_Solution.pdf)
 
 [Face Recognition Art Worksheet](DigitalMirror_handout.pdf)
 
