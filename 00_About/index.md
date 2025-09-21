@@ -14,12 +14,12 @@ Before starting the workshop introduce yourself, what your day is, what you rese
 
 |Name   | Biography  |
 |-------|------|
-|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   The workshops were written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at Technological University Dublin. John combines his knowledgeof mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths. |
+|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   The workshops are written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at Technological University Dublin. John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths. |
 | <img src="JohnEigenface.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;"> | Scríobhadh na ceardlanna ag John Butler, léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
 
 ## Materials
 
-### Slides
+### Introduction Slides
 
 <img src="Maths_in_the_Wild_Introduction.gif" alt="Multisensory Slides" width="450"/>
 
