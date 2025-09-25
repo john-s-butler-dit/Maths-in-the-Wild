@@ -4,25 +4,23 @@ title: About
 permalink: /00_About/
 ---
 
+## About
 
-Before starting the workshop introduce yourself, what your day is, what you research. 
-
-
+We wrote the materials so everyone from young to old can learn about how maths is used in many different ways.
 
 ## The Authors
 
-
 |Name   | Biography  |
 |-------|------|
-|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   The workshops are written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at Technological University Dublin. John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths. |
+|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   [Dr John Butler](https://johnsbutler.netlify.app), is a maths lecturer at Technological University Dublin. John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths. |
 | <img src="JohnEigenface.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;"> | Scríobhadh na ceardlanna ag John Butler, léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
-|-------|------|
-|   <img src="../John.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;">|   The workshops are written by [John Butler](https://johnsbutler.netlify.app), a maths lecturer at Technological University Dublin. John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques thatlet us explore the world through maths. |
-| <img src="JohnEigenface.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;"> | Scríobhadh na ceardlanna ag John Butler, léachtóir matamaitice in Ollscoil Teicneolaíochta Bhaile Átha Cliath. Comhcheanglaíonn John a chuid eolais ar mhatamaitic agus néareolaíocht chun turgnaimh agus teicnící anailíse a chruthú a ligeann dúinn an domhan a fhiosrú tríd an matamaitic. |
+|   |  [Dr Nicole Beisiegel](https://researchprofiles.tudublin.ie/en/persons/nicole-beisiegel-2) is a maths lecturer at Technological University Dublin. Nicole combines her knowledge of mathematics and climate to model coastal flooding as well as extreme flood events caused by severe storms, hurricanes, and tsunamis. |
+| <img src="JohnEigenface.png" alt="Image" width="400" style="vertical-align: middle;border-radius: 50%; margin-right: 10px;"> | [Dr Nicole Beisiegel](https://researchprofiles.tudublin.ie/en/persons/nicole-beisiegel-2) ist Mathematikdozentin an der Technologischen Universität Dublin. Nicole verbindet ihr Wissen über Mathematik und Klima, um Küstenüberschwemmungen sowie extreme Flutereignisse durch schwere Stürme, Hurrikane und Tsunamis zu modellieren. |
 
 ## Materials
 
 ### Introduction Slides
+Before starting the workshop introduce yourself have a chat about what you do day to day.
 
 <img src="Maths_in_the_Wild_Introduction.gif" alt="Multisensory Slides" width="450"/>
 
