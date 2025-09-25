@@ -4,8 +4,6 @@ title: About
 permalink: /00_About/
 ---
 
-## About
-
 We wrote the materials so everyone from young to old can learn about how maths is used in many different ways.
 
 ## The Authors
