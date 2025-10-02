@@ -4,7 +4,7 @@ title: Maths Week Games
 permalink: /99_Misc/06_MathsWeek/
 ---
 
-*Some Games for Maths Week *
+*Some Games for Maths Week*
 
 ### [Square question](Squares.pdf) [Solution](Squares_Solution.pdf)
 
