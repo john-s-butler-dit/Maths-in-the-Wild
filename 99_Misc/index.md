@@ -16,7 +16,7 @@ Maths is everywhere in the wild. There are loads of way of learning about like r
 
 ![MATHSWEEK_TWEETS_for_gif](https://github.com/user-attachments/assets/1eaf226d-99d7-43f5-829e-ddfd515973ae)
 
-
+<img scr="05_Badges/MitW All Badges.png">
 
 
 --
