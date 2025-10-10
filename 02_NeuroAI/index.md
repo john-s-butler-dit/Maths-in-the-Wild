@@ -32,8 +32,9 @@ Topics include:
 
 [Machine Learning Worksheet Solution](WorkSheets/MitW_MachineLearning_Worksheet_Solution.pdf)
 
-[Machine Learning Short Worksheet](WorkSheets/MitW_MachineLearning_Shorter_Worksheet.pdf)
-[Machine Learning Short Worksheet Solution](WorkSheets/MitW_MachineLearning_Shorter_Worksheet_Solution.pdf)
+[Machine Learning Short Worksheet](WorkSheets/MitW_MachineLearning_Worksheet_Shorter.pdf)
+
+[Machine Learning Short Worksheet Solution](WorkSheets/MitW_MachineLearning_Worksheet_Shorter_Solution.pdf)
 
 
 ## References
