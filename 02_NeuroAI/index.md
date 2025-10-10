@@ -28,7 +28,11 @@ Topics include:
 
 ### Worksheet
 
-[Machine Learning Worksheet](Maths_in_the_Wild_MachineLearningWorksheet.pdf)
+[Machine Learning Worksheet](WorkSheets/MitW_MachineLearningWorksheet.pdf)
+[Machine Learning Worksheet Solution](WorkSheets/MitW_MachineLearning_Worksheet_Solution.pdf)
+
+[Machine Learning Short Worksheet](WorkSheets/MitW_MachineLearning_Shorter_Worksheet.pdf)
+[Machine Learning Short Worksheet Solution](WorkSheets/MitW_MachineLearning_Shorter_Worksheet_Solution.pdf)
 
 
 ## References
