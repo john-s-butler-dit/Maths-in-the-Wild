@@ -28,7 +28,9 @@ The box on the lower right shows the location of the vestibular system, which is
 
 ### Worksheet
 
-[Multisensory Worksheet](Maths_in_the_Wild_MultisensoryWorksheet.pdf)
+[Multisensory Worksheet](WorkSheets/MitW_MultisensoryWorksheet.pdf)
+
+[Multisensory Worksheet Solution](WorkSheets/MitW_MultisensoryWorksheet_Solution.pdf)
 
 
 
