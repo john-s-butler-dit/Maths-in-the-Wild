@@ -37,18 +37,18 @@ Wolves into Ireland.
 
 ### Worksheet
 
-[Predator Prey Worksheet](WorkSheets/Maths_in_the_Wild_Predator_Prey_Worksheet.pdf)
+[Predator Prey Worksheet](WorkSheets/MitW_Predator_Prey_Worksheet.pdf)
 
-[Predator Prey Worksheet Solutions](WorkSheets/Maths_in_the_Wild_Predator_PreyWorksheet_Solution.pdf)
+[Predator Prey Worksheet Solutions](WorkSheets/MitW_Predator_PreyWorksheet_Solution.pdf)
 
-[Predator Prey Short Worksheet](WorkSheets/Maths_in_the_Wild_Predator_Prey_Worksheet_Shorter.pdf)
+[Predator Prey Short Worksheet](WorkSheets/MitW_Predator_Prey_Worksheet_Shorter.pdf)
 
-[Predator Prey Short Worksheet Solutions](WorkSheets/Maths_in_the_Wild_Predator_PreyWorksheet_Shorter_Solution.pdf)
+[Predator Prey Short Worksheet Solutions](WorkSheets/MitW_Predator_PreyWorksheet_Shorter_Solution.pdf)
 
 
 ## References
 
-Brady, R. M., & Butler, J. S. (2021). The Circle of Life: The Mathematics of Predator‑Prey Relationships. Frontiers for Young Minds, 9, 651131. [https://doi.org/10.3389/frym.2021.651131]
+Brady, R. M., & Butler, J. S. (2021). The Circle of Life: The Mathematics of Predator‑Prey Relationships. Frontiers for Young Minds, 9, 651131. [https://doi.org/10.3389/frym.2021.651131](https://doi.org/10.3389/frym.2021.651131) [PDF](BradyButler2021.pdf)
 
 
 
