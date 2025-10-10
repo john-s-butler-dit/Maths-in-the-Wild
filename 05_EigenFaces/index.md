@@ -30,11 +30,13 @@ It connects:
 ### Worksheets
 
 [Face Recognition Maths Worksheet](WorkSheets/MitW_FaceRecogWorksheet.pdf) 
+
 [Face Recognition Maths Worksheet Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Solution.pdf)
 
 [Face Recognition Art Worksheet](DigitalMirror_handout.pdf)
 
 [Face Recognition Maths Shoter Worksheet](WorkSheets/MitW_FaceRecogWorksheet_Shorter.pdf) 
+
 [Face Recognition Maths Worksheet Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
 
 
