@@ -43,6 +43,8 @@ It connects:
 [Face Recognition Maths Worksheet Shorter Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
 
 
+This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
+
 ## References
 
 McLoughlin, C. (2024, August 23). The Digital Mirror: TCIN and Dr John Butler at the Dublin Makers Festival, Richmond Barracks. Retrieved June 9, 2025, from https://www.cianmcloughlin.com/news/35-the-digital-mirror-tcin-and-dr-john-butler-at-the-dublin/ 
