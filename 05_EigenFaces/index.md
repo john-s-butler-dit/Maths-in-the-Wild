@@ -13,7 +13,7 @@ It connects:
 - How the brain recognises faces using the Fusiform Face Area (FFA),
 - How mathematics represents faces through dimensionality reduction,
 - How computers use Eigenfaces and machine learning to recognise and re-create faces.
-- The presentation culminates in the idea that only a few images are needed to form a mathematical “portrait” — an Eigenface — representing the essence of a person, not just their appearance.
+- The presentation culminates in the idea that only a few images are needed to form a mathematical “portrait”, an Eigenface, representing the essence of a person, not just their appearance.
 
 ![PHOTO-2024-08-26-11-12-45](https://github.com/user-attachments/assets/6b69d003-331a-4c0c-a731-6c9c9dfcfebd)
 
