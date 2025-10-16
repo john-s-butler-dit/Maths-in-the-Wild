@@ -11,6 +11,12 @@ multiple senses, such as sight and
 balance, for walking or even make a quick
 escape from bears!
 
+This workshop links neuroscience and maths to show how the brain combines information from vision, balance, and other senses to guide behaviour, from walking steadily to reacting quickly in dangerous situations, like escaping a bear 🐻.
+
+Through examples drawn from virtual-reality experiments, students see how mathematical models can predict the way the brain weights sensory inputs to reduce error and improve movement accuracy.
+
+It’s an accessible introduction to modelling and data interpretation that connects classroom maths to real-world applications in neuroscience and technology.
+
 <img width="613" alt="image" src="https://github.com/user-attachments/assets/2daa81e2-b5e9-43ca-a2db-e324dfb33192" />
 
 The brain uses a combination of sensory inputs, visual (sight), auditory (sound), proprioception (muscles and joints), and vestibular (velocity and acceleration), to perceive self-motion.
