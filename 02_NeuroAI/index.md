@@ -4,7 +4,7 @@ title: Machine Learning
 permalink: /02_NeuroAI/
 ---
 
-This interactive talk connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions — like whether to run from a tiger — and how computers are being taught to do the same.
+This interactive workshop connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions - like whether to run from a tiger — and how computers are being taught to do the same.
 
 Topics include:
 
