@@ -5,12 +5,13 @@ permalink: /04_DecisionMaking/
 ---
 
 
-This workshop shows how even making
-simple decisions like whether to go left or
-right can be modelled and predicted using
-maths. The same formula has been used
-to model a particle moving in space.
+This workshop shows how making simple decisions can be modelled and predicted using maths. The same formula has been used to model a particle moving in space.
 
+The workshop blends neuroscience with mathematical modelling to explore how the brain gathers evidence, handles uncertainty, and responds to time pressure when making choices. 
+
+Using an example students can relate to, “Should I walk or cycle to school?” they learn how concepts like drift, noise, and evidence accumulation are used to model decisions in both everyday life and scientific research. 
+
+It links the maths model to real brain processes and encourages students to see decision-making as a dynamic, measurable phenomenon. 
 
 ## Materials
 
@@ -24,6 +25,8 @@ to model a particle moving in space.
 
 [Decision Making Worksheet](Maths_in_the_Wild_DecisionMakingWorksheet.pdf)
 
+
+This workshop was originally created for Neuromatch for Kids, and a more adult-friendly version (written with Rebecca Brady) appears on RTÉ Brainstorm, exploring the maths behind another everyday decision: [“Should I have another pint or go home?”](https://www.rte.ie/brainstorm/2025/1013/1390329-maths-neuroscience-decisions-brain-behaviour/)
 
 ## References
 
