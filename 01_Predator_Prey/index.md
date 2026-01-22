@@ -37,13 +37,26 @@ Wolves into Ireland.
 
 ### Worksheet
 
-[Predator Prey Worksheet](WorkSheets/MitW_Predator_Prey_Worksheet.pdf)
+[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)
 
-[Predator Prey Worksheet Solutions](WorkSheets/MitW_Predator_PreyWorksheet_Solution.pdf)
+[Predator Prey Worksheet Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)
 
-[Predator Prey Short Worksheet](WorkSheets/MitW_Predator_Prey_Worksheet_Shorter.pdf)
+[Predator Prey 2-page Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page.pdf)
 
-[Predator Prey Short Worksheet Solutions](WorkSheets/MitW_Predator_PreyWorksheet_Shorter_Solution.pdf)
+[Predator Prey 2-page Worksheet Solutions](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page_Solutions.pdf)
+
+### Mutiple Choice Quiz
+
+[Predator Prey Worksheet](MCQs/01_MitW_MCQs_Predator_Prey.pdf)
+
+[Predator Prey Worksheet Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)
+
+
+### Lesson Plan
+
+[Predator Prey Worksheet Solutions](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf)
+
+
 
 
 ## References
