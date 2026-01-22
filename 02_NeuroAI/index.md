@@ -38,14 +38,14 @@ Topics include:
 
 ### Mutiple Choice Quiz
 
-[Predator Prey Worksheet](MCQs/02_MitW_MCQs_MachineLearning.pdf)
+[Machine Learning MCQs](MCQs/02_MitW_MCQs_MachineLearning.pdf)
 
-[Predator Prey Worksheet Solutions](MCQs/02_MitW_MCQs_MachineLearning_Solutions.pdf)
+[Machine Learning MCQs Solutions](MCQs/02_MitW_MCQs_MachineLearning_Solutions.pdf)
 
 
 ### Lesson Plan
 
-[Predator Prey Worksheet Solutions](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)
+[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)
 
 
 ## References

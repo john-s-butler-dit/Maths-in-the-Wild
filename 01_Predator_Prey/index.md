@@ -47,14 +47,14 @@ Wolves into Ireland.
 
 ### Mutiple Choice Quiz
 
-[Predator Prey Worksheet](MCQs/01_MitW_MCQs_Predator_Prey.pdf)
+[Predator Prey MCQ](MCQs/01_MitW_MCQs_Predator_Prey.pdf)
 
-[Predator Prey Worksheet Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)
+[Predator Prey MCQ Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)
 
 
 ### Lesson Plan
 
-[Predator Prey Worksheet Solutions](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf)
+[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf)
 
 
 
