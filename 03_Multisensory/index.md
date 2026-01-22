@@ -34,11 +34,20 @@ The box on the lower right shows the location of the vestibular system, which is
 
 ### Worksheet
 
-[Multisensory Worksheet](WorkSheets/MitW_MultisensoryWorksheet.pdf)
+[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)
 
-[Multisensory Worksheet Solution](WorkSheets/MitW_MultisensoryWorksheet_Solution.pdf)
+[Multisensory Worksheet Solution](WorkSheets/03_MitW_Worksheet_Multisensory_Solutions.pdf)
+
+### Mutiple Choice Quiz
+
+[Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf)
+
+[Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)
 
 
+### Lesson Plan
+
+[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_LessonPlan_Multisensory.pdf)
 
 ## References
 Campos, J. L., Pandi, M., & Butler, J. S. (2020). “Feeling” Ourselves Move: A Team Effort by Our Senses. Frontiers for Young Minds, 8(9). DOI: [https://doi.org/10.3389/frym.2020.00009](https://doi.org/10.3389/frym.2020.00009) [PDF](CamposPandiButler_Frontiers_YoungMinds.pdf)

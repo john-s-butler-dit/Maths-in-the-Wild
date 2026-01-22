@@ -23,7 +23,21 @@ It links the maths model to real brain processes and encourages students to see 
 
 ### Worksheet
 
-[Decision Making Worksheet](Maths_in_the_Wild_DecisionMakingWorksheet.pdf)
+[Decision Making Worksheet](WorkSheets/04_MitW_Worksheet_DecisionMaking.pdf)
+
+[Decision Making Worksheet Solutions](WorkSheets/04_MitW_Worksheet_DecisionMaking_Solutions.pdf)
+
+### Mutiple Choice Quiz
+
+[Decision Making MCQ](MCQs/04_MitW_MCQs_DecisionMaking.pdf)
+
+[Decision Making MCQ Solutions](MCQs/04_MitW_MCQs_DecisionMaking_Solutions.pdf)
+
+
+### Lesson Plan
+
+[Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_LessonPlan_DecisionMaking.pdf)
+
 
 
 This workshop was originally created for Neuromatch for Kids, and a more adult-friendly version (written with Rebecca Brady) appears on RTÉ Brainstorm, exploring the maths behind another everyday decision: [“Should I have another pint or go home?”](https://www.rte.ie/brainstorm/2025/1013/1390329-maths-neuroscience-decisions-brain-behaviour/)
