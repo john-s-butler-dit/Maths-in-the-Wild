@@ -28,13 +28,24 @@ Topics include:
 
 ### Worksheet
 
-[Machine Learning Worksheet](WorkSheets/MitW_MachineLearning_Worksheet.pdf)
+[Machine Learning Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning.pdf)
 
-[Machine Learning Worksheet Solution](WorkSheets/MitW_MachineLearning_Worksheet_Solution.pdf)
+[Machine Learning Worksheet Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_Solutions.pdf)
 
-[Machine Learning Short Worksheet](WorkSheets/MitW_MachineLearning_Worksheet_Shorter.pdf)
+[Machine Learning Short Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning_2page.pdf)
 
-[Machine Learning Short Worksheet Solution](WorkSheets/MitW_MachineLearning_Worksheet_Shorter_Solution.pdf)
+[Machine Learning Short Worksheet Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_2page_Solutions.pdf)
+
+### Mutiple Choice Quiz
+
+[Predator Prey Worksheet](MCQs/02_MitW_MCQs_MachineLearning.pdf)
+
+[Predator Prey Worksheet Solutions](MCQs/02_MitW_MCQs_MachineLearning_Solutions.pdf)
+
+
+### Lesson Plan
+
+[Predator Prey Worksheet Solutions](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)
 
 
 ## References
