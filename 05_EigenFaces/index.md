@@ -34,13 +34,13 @@ It connects:
 [Face Recognition Maths Worksheet Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Solution.pdf)
 
 
-[Face Recognition Art Worksheet](DigitalMirror_handout.pdf)
+[Face Recognition Art Worksheet](Worksheets/DigitalMirror_handout.pdf)
 
 
-[Face Recognition Maths Shorter Worksheet](WorkSheets/MitW_FaceRecogWorksheet_Shorter.pdf) 
+[Face Recognition Shorter Worksheet](WorkSheets/MitW_FaceRecogWorksheet_Shorter.pdf) 
 
 
-[Face Recognition Maths Worksheet Shorter Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
+[Face Recognition Worksheet Shorter Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
 
 
 This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
