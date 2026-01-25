@@ -18,6 +18,8 @@ let us explore the world. Nicole combines her knowledge of mathematics and the o
 3. [Multisensory Integration](03_Multisensory/index.md)
 4. [Decision Making](04_DecisionMaking/index.md)
 5. [Face Recognition](05_EigenFaces/index.md)
+6. The Spread of Disease (Coming Soon)
+7. Maths of Memory (Coming Soon)
 
 Each workshop has a presentation, videos, some python code and worksheet with solutions, which are all freely available for anyone who wants to use and adapt them.
 

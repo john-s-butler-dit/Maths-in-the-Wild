@@ -38,9 +38,9 @@ Topics include:
 
 ### Mutiple Choice Quiz
 
-[Machine Learning MCQs](MCQs/02_MitW_MCQs_MachineLearning.pdf)
+[Machine Learning MCQs](MCQs/02_MitW_MCQ_Machine_Learning.pdf)
 
-[Machine Learning MCQs Solutions](MCQs/02_MitW_MCQs_MachineLearning_Solutions.pdf)
+[Machine Learning MCQs Solutions](MCQs/02_MitW_MCQ_Machine_Learning_Solutions.pdf)
 
 
 ### Lesson Plan

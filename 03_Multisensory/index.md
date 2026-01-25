@@ -47,7 +47,7 @@ The box on the lower right shows the location of the vestibular system, which is
 
 ### Lesson Plan
 
-[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_LessonPlan_Multisensory.pdf)
+[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
 
 ## References
 Campos, J. L., Pandi, M., & Butler, J. S. (2020). “Feeling” Ourselves Move: A Team Effort by Our Senses. Frontiers for Young Minds, 8(9). DOI: [https://doi.org/10.3389/frym.2020.00009](https://doi.org/10.3389/frym.2020.00009) [PDF](CamposPandiButler_Frontiers_YoungMinds.pdf)

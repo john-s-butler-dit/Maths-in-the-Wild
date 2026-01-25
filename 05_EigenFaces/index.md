@@ -43,6 +43,17 @@ It connects:
 [Face Recognition Worksheet Shorter Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
 
 
+### Mutiple Choice Quiz
+
+[Face Recognition MCQ](MCQs/05_MitW_MCQs_Digital_Mirror.pdf)
+
+[Face Recognition MCQ Solutions](MCQs/05_MitW_MCQs_Digital_Mirror_Solutions.pdf)
+
+
+### Lesson Plan
+
+[Face Recognition Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
+
 This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
 
 ## References
