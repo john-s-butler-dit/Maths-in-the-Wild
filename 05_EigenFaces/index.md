@@ -49,12 +49,18 @@ It connects:
 
 [Face Recognition MCQ Solutions](MCQs/05_MitW_MCQs_Digital_Mirror_Solutions.pdf)
 
+[Face Recognition online MCQ](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUNlpYSUpZNzdBQUJVQk4wVERHSllIUExLSi4u)
 
 ### Lesson Plan
 
 [Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
 
 This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
+
+### Certificate of Compeltion
+
+[Face Recognition Cert](Cert/05_MitW_Certificate.pdf)
+
 
 ## References
 
