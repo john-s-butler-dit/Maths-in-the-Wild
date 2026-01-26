@@ -55,11 +55,12 @@ It connects:
 
 [Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
 
-This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
 
 ### Certificate of Compeltion
 
 [Face Recognition Cert](Cert/05_MitW_Certificate.pdf)
+
+This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
 
 
 ## References
