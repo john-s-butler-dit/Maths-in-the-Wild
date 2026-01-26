@@ -36,7 +36,7 @@ It links the maths model to real brain processes and encourages students to see 
 
 ### Lesson Plan
 
-[Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_LessonPlan_DecisionMaking.pdf)
+[Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf)
 
 
 
