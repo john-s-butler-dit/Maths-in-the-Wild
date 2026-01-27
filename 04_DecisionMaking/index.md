@@ -17,7 +17,7 @@ It links the maths model to real brain processes and encourages students to see 
 
 ### Slides
 
-<img src="Maths_in_the_Wild_DecisionMaking.gif" alt="Decision Making" width="450"/>
+
 
 [Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx)
 
@@ -38,9 +38,13 @@ It links the maths model to real brain processes and encourages students to see 
 
 [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf)
 
+### Certificate of Compeltion
 
+[Decision Making Cert](Cert/04_MitW_Certificate.pdf)
 
-This workshop was originally created for Neuromatch for Kids, and a more adult-friendly version (written with Rebecca Brady) appears on RTÉ Brainstorm, exploring the maths behind another everyday decision: [“Should I have another pint or go home?”](https://www.rte.ie/brainstorm/2025/1013/1390329-maths-neuroscience-decisions-brain-behaviour/)
+This workshop was originally created for [Neuromatch](https://neuromatch.io) for Kids, and a more adult-friendly version (written with Rebecca Brady) appears on RTÉ Brainstorm, exploring the maths behind another everyday decision: [“Should I have another pint or go home?”](https://www.rte.ie/brainstorm/2025/1013/1390329-maths-neuroscience-decisions-brain-behaviour/)
+
+<img src="Maths_in_the_Wild_DecisionMaking.gif" alt="Decision Making" width="450"/>
 
 ## References
 

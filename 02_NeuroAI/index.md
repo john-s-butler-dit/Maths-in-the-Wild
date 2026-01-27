@@ -22,7 +22,7 @@ Topics include:
 
 ### Slides
 
-<img src="Maths_in_the_Wild_MachineLearning.gif" alt="Machine Learning Slides" width="450"/>
+
 
 [Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
@@ -47,6 +47,11 @@ Topics include:
 
 [Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)
 
+<img src="Maths_in_the_Wild_MachineLearning.gif" alt="Machine Learning Slides" width="450"/>
+
+### Certificate of Compeltion
+
+[Machine Learning Cert](Cert/02_MitW_Certificate.pdf)
 
 ## References
 

@@ -23,7 +23,7 @@ It connects:
 
 ### Slides
 
-<img src="Maths_in_the_Wild_DigitalMirror.gif" alt="Digital Mirror Slides" width="450"/>
+
 
 [Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)
 
@@ -62,6 +62,8 @@ It connects:
 
 This workshop was originally developed during Cian’s artist residency at the Trinity College Institute of Neuroscience, supported by Taighde Éireann - Research Ireland. 
 
+
+<img src="Maths_in_the_Wild_DigitalMirror.gif" alt="Digital Mirror Slides" width="450"/>
 
 ## References
 

@@ -31,7 +31,7 @@ Wolves into Ireland.
 
 ### Slides
 
-<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Predator Prey" width="450"/>
+
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
@@ -57,7 +57,12 @@ Wolves into Ireland.
 [Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf)
 
 
+<img src="Maths_in_the_Wild_Predator_Prey.gif" alt="Predator Prey" width="450"/>
 
+
+### Certificate of Compeltion
+
+[Predator Prey Cert](Cert/01_MitW_Certificate.pdf)
 
 ## References
 

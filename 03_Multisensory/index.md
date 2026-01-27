@@ -28,8 +28,6 @@ The box on the lower right shows the location of the vestibular system, which is
 
 ### Slides
 
-<img src="Maths_in_the_Wild_Multisensory.gif" alt="Multisensory Slides" width="450"/>
-
 [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
 
 ### Worksheet
@@ -48,6 +46,13 @@ The box on the lower right shows the location of the vestibular system, which is
 ### Lesson Plan
 
 [Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
+
+
+<img src="Maths_in_the_Wild_Multisensory.gif" alt="Multisensory Slides" width="450"/>
+
+### Certificate of Compeltion
+
+[Multisensory Cert](Cert/03_MitW_Certificate.pdf)
 
 ## References
 Campos, J. L., Pandi, M., & Butler, J. S. (2020). “Feeling” Ourselves Move: A Team Effort by Our Senses. Frontiers for Young Minds, 8(9). DOI: [https://doi.org/10.3389/frym.2020.00009](https://doi.org/10.3389/frym.2020.00009) [PDF](CamposPandiButler_Frontiers_YoungMinds.pdf)
