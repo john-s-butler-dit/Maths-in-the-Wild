@@ -49,7 +49,7 @@ Topics include:
 
 <img src="Maths_in_the_Wild_MachineLearning.gif" alt="Machine Learning Slides" width="450"/>
 
-### Certificate of Compeltion
+### Certificate of Completion
 
 [Machine Learning Cert](Cert/02_MitW_Certificate.pdf)
 

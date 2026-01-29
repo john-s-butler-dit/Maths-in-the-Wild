@@ -56,7 +56,7 @@ It connects:
 [Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
 
 
-### Certificate of Compeltion
+### Certificate of Completion
 
 [Face Recognition Cert](Cert/05_MitW_Certificate.pdf)
 

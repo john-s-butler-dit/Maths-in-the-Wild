@@ -50,7 +50,7 @@ The box on the lower right shows the location of the vestibular system, which is
 
 <img src="Maths_in_the_Wild_Multisensory.gif" alt="Multisensory Slides" width="450"/>
 
-### Certificate of Compeltion
+### Certificate of Completion
 
 [Multisensory Cert](Cert/03_MitW_Certificate.pdf)
 

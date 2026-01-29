@@ -38,7 +38,7 @@ It links the maths model to real brain processes and encourages students to see 
 
 [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf)
 
-### Certificate of Compeltion
+### Certificate of Completion
 
 [Decision Making Cert](Cert/04_MitW_Certificate.pdf)
 

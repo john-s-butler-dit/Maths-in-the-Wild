@@ -59,7 +59,7 @@ Wolves into Ireland.
 
 
 
-### Certificate of Compeltion
+### Certificate of Completion
 
 [Predator Prey Cert](Cert/01_MitW_Certificate.pdf)
 
