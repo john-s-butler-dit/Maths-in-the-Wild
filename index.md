@@ -21,7 +21,7 @@ let us explore the world. Nicole combines her knowledge of mathematics and the o
 6. The Spread of Disease (Coming Soon)
 7. Maths of Memory (Coming Soon)
 
-Each workshop has a presentation, videos, some python code and worksheet with solutions, which are all freely available for anyone who wants to use and adapt them.
+Each workshop has a presentation, videos, some python code, multiple choice quiz worksheet with solutions and a lessson plan. The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
 ![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
 
