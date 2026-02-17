@@ -29,18 +29,18 @@ It connects:
 
 ### Worksheets
 
-[Face Recognition Maths Worksheet](WorkSheets/MitW_FaceRecogWorksheet.pdf) 
+[Face Recognition Maths Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog.pdf) 
 
-[Face Recognition Maths Worksheet Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Solution.pdf)
+[Face Recognition Maths Worksheet Example Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_2page_Solutions.pdf)
 
 
 [Face Recognition Art Worksheet](Worksheets/DigitalMirror_handout.pdf)
 
 
-[Face Recognition Shorter Worksheet](WorkSheets/MitW_FaceRecogWorksheet_Shorter.pdf) 
+[Face Recognition Shorter Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog_2page.pdf) 
 
 
-[Face Recognition Worksheet Shorter Example Solution](WorkSheets/MitW_FaceRecogWorksheet_Shorter_Solution.pdf)
+[Face Recognition Worksheet Shorter Example Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_2page_Solutions.pdf)
 
 
 ### Mutiple Choice Quiz
