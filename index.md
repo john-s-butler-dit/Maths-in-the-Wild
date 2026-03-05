@@ -7,7 +7,7 @@ title: Maths in the Wild
 **Maths in the Wild** consists of workshops designed for primary and secondary school students. Participants engage in interactive experiments and mathematical calculations, allowing them to experience firsthand how maths and science, mainly neuroscience, are applied in exploring and understanding our surroundings.
 
 These workshops were created by Dr Nicole Beisiegel and
-[Dr John Butler](https://johnsbutler.netlify.app) ,
+[Dr John Butler](https://johnsbutler.netlify.app),
 who both teach mathematics at Technological University Dublin.
 John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques that
 let us explore the world. Nicole combines her knowledge of mathematics and the oceans to understand the natural world. The workshops were initially written for the [TU Dublin Access and Outreach programme](https://www.tudublin.ie/connect/access-outreach/). 
@@ -20,6 +20,8 @@ let us explore the world. Nicole combines her knowledge of mathematics and the o
 5. [Face Recognition](05_EigenFaces/index.md)
 6. The Spread of Disease (Coming Soon)
 7. Maths of Memory (Coming Soon)
+8. Music of Maths (In development)
+9. Statistics of Sports (In development)
 
 Each workshop has a presentation, videos, some python code, multiple choice quiz worksheet with solutions and a lessson plan. The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
