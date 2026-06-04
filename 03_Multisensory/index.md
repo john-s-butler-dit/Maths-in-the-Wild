@@ -53,6 +53,8 @@ The Multisensory Integration workshop explores how the brain combines informatio
 
 [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
 
+
+<section id="worksheet">
 ### Worksheet
 
 [Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)
@@ -64,7 +66,7 @@ The Multisensory Integration workshop explores how the brain combines informatio
 [Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf)
 
 [Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)
-
+</section>
 
 
 
