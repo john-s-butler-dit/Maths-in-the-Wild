@@ -19,6 +19,7 @@ Topics include:
 
 
 ## Irish School Curriculum Alignment
+The Machine Learning workshop introduces students to how a simple neural network unit — the perceptron — makes decisions by multiplying inputs, summing the results, and applying a threshold rule. While the workshop is rooted in mathematics, it connects naturally to a wide range of subjects across all three levels of the Irish curriculum, from SESE Science and SPHE in primary school through to Computer Science, Applied Mathematics, and Philosophy at Leaving Certificate. 
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
@@ -32,21 +33,24 @@ Topics include:
 
 ## Materials
 
+### Lesson Plan
+Start here, includes timing, learning objectives and preparation notes.
+
+[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)  
+
+
 ### Slides
-
-
 
 [Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
 
 ### Worksheet
 
-[Machine Learning Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning.pdf)
+| Worksheet | Solution | 
+|---|---|
 
-[Machine Learning Worksheet Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_Solutions.pdf)
+| [Machine Learning Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_Solutions.pdf) |
 
-[Machine Learning Short Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning_2page.pdf)
-
-[Machine Learning Short Worksheet Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_2page_Solutions.pdf)
+| [Machine Learning Short Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning_2page.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_2page_Solutions.pdf) |
 
 ### Mutiple Choice Quiz
 
@@ -55,9 +59,6 @@ Topics include:
 [Machine Learning MCQs Solutions](MCQs/02_MitW_MCQ_Machine_Learning_Solutions.pdf)
 
 
-### Lesson Plan
-
-[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)
 
 <img src="Maths_in_the_Wild_MachineLearning.gif" alt="Machine Learning Slides" width="450"/>
 
