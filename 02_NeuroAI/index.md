@@ -47,9 +47,7 @@ Start here, includes timing, learning objectives and preparation notes.
 
 | Worksheet | Solution | 
 |---|---|
-
 | [Machine Learning Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_Solutions.pdf) |
-
 | [Machine Learning Short Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning_2page.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_2page_Solutions.pdf) |
 
 ### Mutiple Choice Quiz
