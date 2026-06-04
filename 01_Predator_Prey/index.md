@@ -26,8 +26,67 @@ Wolves into Ireland.
 (A) The number of hare pelts collected (in tens of thousands) over time. (B) The number of lynx pelts collected (in tens of thousands) over time, inferred from Hudson Bay Company data from 1895 to 1935
 
 ### Irish curriculum alignment
+What the workshop does mathematically: Students work with population data, plot graphs, interpret how two variables (predator and prey numbers) change over time, and explore the idea that equations can model real-world systems.
 
-Junior Cycle Maths: Strand 4 (Algebra), specifically functions and relationships; also links to Junior Cycle Science (ecology). Add: "Supports Junior Cycle Maths — Functions and relationships (Strand 4). Cross-curricular link with Junior Cycle Science — Ecology."
+<table border="1">
+    <thead>
+        <tr>
+            <th>Subject</th>
+            <th>Primary</th>
+            <th>Junior Cycle</th>
+            <th>Leaving Cert</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Science / Biology</td>
+            <td>living things, habitats, food chains</td>
+            <td> Biological World, ecology, predation</td>
+            <td> Ecology unit, population dynamics</td>
+        </tr>
+        <tr>
+            <td>Applied Maths</td>
+            <td>—</td>
+            <td>—</td>
+            <td> Mathematical Modelling strand</td>
+        </tr>
+        <tr>
+            <td>Geography</td>
+            <td> natural environments</td>
+            <td> where taught</td>
+            <td>Human Environment, Geoecology</td>
+        </tr>
+        <tr>
+            <td>Agricultural Science</td>
+            <td>—</td>
+            <td>—</td>
+            <td>pest control, animal populations</td>
+        </tr>
+        <tr>
+            <td>SESE Environmental Awareness</td>
+            <td>interdependence, ecosystems</td>
+            <td>—</td>
+            <td>—</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Primary School
+Maths: Data, Algebra and Numbers.
+SESE Science: Living Things and Enviromental, Awareness and Care
+SESE Geography: Natural Environments
+
+#### Junior Cycle 
+Maths:Numbers amd Algebra, specifically functions and relationships 
+Science: Biological World, Nature of Science
+Geography: Population, Migration, and the Environment 
+
+#### Leaving Cycle 
+Maths: Statisics & Probability,  Algebra and Functions.
+Biology: Ecology
+Applied Maths: Mathematical Modelling.
+
+
 
 ## Materials
 
