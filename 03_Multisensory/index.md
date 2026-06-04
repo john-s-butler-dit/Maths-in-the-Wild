@@ -24,7 +24,30 @@ The box on the lower right shows the location of the vestibular system, which is
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8XfjWYMzmk?si=oLEUArvUWvJWDz0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+## Curriculum Links
+
+The Multisensory Integration workshop explores how the brain combines information from multiple senses — such as sight, balance, and touch — to produce a single, more accurate estimate of what is happening in the world. The core mathematical idea is the weighted average: the brain gives more weight to whichever sense is most reliable in a given situation, and by combining signals in this way it outperforms any single sense alone. 
+
+
+
+| Subject | Primary | Junior Cycle | Leaving Cert |
+|---|---|---|---|
+| Mathematics | Data and Chance |Statistics and Probability; Numbers | Statistics and Probability |
+| Science | Human Body  | Biological World  | Biology — Nervous System and The Senses|
+| Measures | Measures | — | — |
+| Applied Mathematics | — | — | Mathematical Modelling  |
+| PE / Physical Education | — | body awareness, balance, and coordination |  understanding the role of sensory feedback  |
+| SPHE | understanding how my body works | — | — |
+
+
 ## Materials
+
+### Lesson Plan
+
+[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
+
 
 ### Slides
 
@@ -43,9 +66,7 @@ The box on the lower right shows the location of the vestibular system, which is
 [Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)
 
 
-### Lesson Plan
 
-[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
 
 
 <img src="Maths_in_the_Wild_Multisensory.gif" alt="Multisensory Slides" width="450"/>
