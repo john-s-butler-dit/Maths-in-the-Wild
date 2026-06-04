@@ -12,9 +12,11 @@ who both teach mathematics at Technological University Dublin.
 John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques that
 let us explore the world. Nicole combines her knowledge of mathematics and the oceans to understand the natural world. The workshops were initially written for the [TU Dublin Access and Outreach programme](https://www.tudublin.ie/connect/access-outreach/). 
 
+For teachers: Each workshop on this site is self-contained and ready to use. You'll find a lesson plan, presentation slides, a student worksheet with solutions, and a multiple choice quiz. Workshops are designed to run in a single class period (60–90 minutes) and require no specialist equipment beyond a projector. Download the lesson plan first to see exactly what's involved.
+
 ## Workshops
-1. [Predator Prey](01_Predator_Prey/index.md)
-2. [Machine Learning](02_NeuroAI/index.md)
+1. [Predator Prey](01_Predator_Prey/index.md) the content (population growth, simple equations, graphing) is suitable for all secondary school students and senior primary (5th–6th class).
+2. [Machine Learning](02_NeuroAI/index.md) the content introduces AI 
 3. [Multisensory Integration](03_Multisensory/index.md)
 4. [Decision Making](04_DecisionMaking/index.md)
 5. [Face Recognition](05_EigenFaces/index.md)
@@ -23,7 +25,7 @@ let us explore the world. Nicole combines her knowledge of mathematics and the o
 8. Music of Maths (In development)
 9. Statistics of Sports (In development)
 
-Each workshop has a presentation, videos, some python code, multiple choice quiz worksheet with solutions and a lessson plan. The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
 ![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
 
