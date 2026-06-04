@@ -21,6 +21,25 @@ It connects:
 
 ## Materials
 
+# Face Recognition Workshop — Cross-Curricular Links
+
+The Face Recognition workshop explores how computers identify faces using a mathematical technique called Eigenfaces, in which each face image is represented as a grid of numbers and then expressed as a weighted combination of a small set of key patterns. The core mathematical idea is dimensionality reduction — taking a highly complex object (a human face) and finding a compact numerical description that still captures what makes it recognisable. This workshop is unique among the five in having a genuine and developed cross-curricular link with Art, supported by a collaboration with Irish portrait artist Cian McLoughlin, which makes it particularly well suited to Transition Year and cross-departmental projects. 
+
+## Curriculum Links
+
+| Subject | Primary | Junior Cycle | Leaving Cert |
+|---|---|---|---|
+| Mathematics | Number  | Number | Number, Algebra|
+| Art / Visual Art | Primary Visual Arts  | portraiture and figurative work  |  Visual Studies, portraiture |
+| Science | the human body and the senses| — |
+| Computer Science | — |   data representation;g | data representation, abstraction, and dimensionality reduction; AI and pattern recognition strand |
+| Applied Mathematics | — | — | Mathematical Modelling strand |
+| SPHE / CSPE | identity and self-image | ethics of facial recognition technology; privacy rights  | — |
+
+### Lesson Plan
+
+[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
+
 ### Slides
 
 
@@ -51,9 +70,7 @@ It connects:
 
 [Face Recognition online MCQ](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUNlpYSUpZNzdBQUJVQk4wVERHSllIUExLSi4u)
 
-### Lesson Plan
 
-[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
 
 
 ### Certificate of Completion
