@@ -22,13 +22,13 @@ Topics include:
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
-| Mathematics | Number and Algebra — multiply, sum, and threshold rule of the perceptron | — | Strand 4 Algebra (linear combinations); Strand 5 Functions HL (activation function as a real-world function) |
-| Science | SESE Working Scientifically — inquiry cycle of observe, predict, test, conclude; Design and Make strand | Nature of Science — mathematical modelling and simplified representations of complex phenomena | — |
-| Computer Science | — | Short Course: Coding and Computational Thinking — algorithmic thinking and impact of computing on society | Core Concepts — AI and Machine Learning strand; Applied Learning Tasks in Python |
-| Applied Mathematics | — | — | Mathematical Modelling strand — full modelling cycle of define, apply, test, refine |
-| Business Studies | — | Economic Awareness — AI's impact on industries, employment, and the economy | — |
-| SPHE / CSPE | SPHE — Myself and the Wider World; technology in daily life | CSPE — Rights and Digital Citizenship; bias and fairness in algorithmic decision-making | — |
-| Religious Education / Philosophy | — | — | Technology and ethics — can a machine think; is algorithmic decision-making ethically equivalent to human judgement |
+| Mathematics | Number and Algebra  | — | Algebra; Functions |
+| Science | Working Scientifically  | Nature of Science | — |
+| Computer Science | — | Coding and Computational Thinking  | AI and Machine Learning; Applied Learning Tasks in Python |
+| Applied Mathematics | — | — | Mathematical Modelling |
+| Business Studies | — | AI's impact  | — |
+| SPHE / CSPE |  Myself and the Wider World; technology in daily life |  Rights and Digital Citizenship; bias and fairness in algorithmic decision-making | — |
+| Religious Education / Philosophy | — | — | Technology and ethics  |
 
 ## Materials
 
