@@ -4,7 +4,7 @@ title: Predator Prey
 permalink: /01_Predator_Prey/
 ---
 
-The workshop introduces students to mathematical modelling in ecology using predator-prey relationships. Through real-world examples like hares and lynx, students explore how populations grow, interact, and decline depending on food sources and predation.
+The workshop takes around 60-90 minutes, it introduces students to mathematical modelling in ecology using predator-prey relationships. Through real-world examples like hares and lynx, students explore how populations grow, interact, and decline depending on food sources and predation.
 
 The core focus is on:
 
@@ -25,9 +25,16 @@ Wolves into Ireland.
 
 (A) The number of hare pelts collected (in tens of thousands) over time. (B) The number of lynx pelts collected (in tens of thousands) over time, inferred from Hudson Bay Company data from 1895 to 1935
 
+### Irish curriculum alignment
 
+Junior Cycle Maths: Strand 4 (Algebra), specifically functions and relationships; also links to Junior Cycle Science (ecology). Add: "Supports Junior Cycle Maths — Functions and relationships (Strand 4). Cross-curricular link with Junior Cycle Science — Ecology."
 
 ## Materials
+
+### Lesson Plan
+
+[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) Start here — includes timing, learning objectives and preparation notes.
+
 
 ### Slides
 
@@ -52,9 +59,6 @@ Wolves into Ireland.
 [Predator Prey MCQ Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)
 
 
-### Lesson Plan
-
-[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf)
 
 
 
