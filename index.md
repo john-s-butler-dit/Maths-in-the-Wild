@@ -12,7 +12,9 @@ who both teach mathematics at Technological University Dublin.
 John combines his knowledge of mathematics and neuroscience to create experiments and analysis techniques that
 let us explore the world. Nicole combines her knowledge of mathematics and the oceans to understand the natural world. The workshops were initially written for the [TU Dublin Access and Outreach programme](https://www.tudublin.ie/connect/access-outreach/). 
 
+<blockquote>
 For teachers: Each workshop on this site is self-contained and ready to use. You'll find a lesson plan, presentation slides, a student worksheet with solutions, and a multiple choice quiz. Workshops are designed to run in a single class period (60–90 minutes) and require no specialist equipment beyond a projector. Download the lesson plan first to see exactly what's involved.
+</blockquote>
 
 ## Workshops
 1. [Predator Prey](01_Predator_Prey/index.md) the content (population growth, simple equations, graphing) is suitable for all secondary school students and senior primary (5th–6th class).
