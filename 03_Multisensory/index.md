@@ -4,7 +4,7 @@ title: Multisensory
 permalink: /03_Multisensory/
 ---
 
-
+<a href="#worksheet">Worksheet</a>
 This workshop dives into the maths and
 neuroscience behind how we combine our
 multiple senses, such as sight and
@@ -54,8 +54,9 @@ The Multisensory Integration workshop explores how the brain combines informatio
 [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
 
 
-<section id="worksheet">
 ### Worksheet
+<section id="worksheet">
+
 
 [Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)
 
