@@ -53,7 +53,7 @@ What the workshop does mathematically: Students work with population data, plot 
         <tr>
             <td>Geography</td>
             <td> natural environments</td>
-            <td> where taught</td>
+            <td> Population, Migration, and the Environment</td>
             <td>Human Environment, Geoecology</td>
         </tr>
         <tr>
@@ -71,20 +71,6 @@ What the workshop does mathematically: Students work with population data, plot 
     </tbody>
 </table>
 
-#### Primary School
-Maths: Data, Algebra and Numbers.
-SESE Science: Living Things and Enviromental, Awareness and Care
-SESE Geography: Natural Environments
-
-#### Junior Cycle 
-Maths:Numbers amd Algebra, specifically functions and relationships 
-Science: Biological World, Nature of Science
-Geography: Population, Migration, and the Environment 
-
-#### Leaving Cycle 
-Maths: Statisics & Probability,  Algebra and Functions.
-Biology: Ecology
-Applied Maths: Mathematical Modelling.
 
 
 
