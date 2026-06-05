@@ -61,10 +61,8 @@ The Multisensory Integration workshop explores how the brain combines informatio
 
 |Handout|Solution|
 |-----|-----|
-|[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)|
-[Solution](WorkSheets/03_MitW_Worksheet_Multisensory_Solutions.pdf)|
-| [Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf) |
-[Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)|
+|[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)|[Solution](WorkSheets/03_MitW_Worksheet_Multisensory_Solutions.pdf)|
+| [Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf) |[Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)|
 
 
 
