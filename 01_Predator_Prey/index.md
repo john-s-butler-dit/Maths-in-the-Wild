@@ -100,6 +100,7 @@ What the workshop does mathematically: Students work with population data, plot 
 ### Handouts
 <section id="Handouts">
 </section>
+
 |Handout|Solution|
 |-------|--------|
 |[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)|[Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)|
