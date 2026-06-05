@@ -24,10 +24,6 @@ Before starting the workshop introduce yourself have a chat about what you do da
 
 [Introduction Slides](Maths_in_the_Wild_Introduction.pptx)
 
-![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
-
-
-
 
 <iframe width="360" height="640" 
         src="https://www.youtube.com/embed/najLpsySkio?si=r9WmtoV5vOf9tv6u"
