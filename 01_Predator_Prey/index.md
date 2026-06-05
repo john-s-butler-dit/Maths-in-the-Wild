@@ -21,6 +21,20 @@ in the environment like the reintroduction of
 Wolves into Ireland.
 
 
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Lesson Plan and Slides.</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Handouts">Handouts</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
+  </div>
+
+</div>
+
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/e21ae451-688b-4cf9-9e83-954f8755988b" />
 
 (A) The number of hare pelts collected (in tens of thousands) over time. (B) The number of lynx pelts collected (in tens of thousands) over time, inferred from Hudson Bay Company data from 1895 to 1935
@@ -75,20 +89,17 @@ What the workshop does mathematically: Students work with population data, plot 
 
 
 ## Materials
-
-### Lesson Plan
+<section id="Materials">
+</section>
 
 [Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) Start here — includes timing, learning objectives and preparation notes.
-
-
-### Slides
-
 
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
 ### Handouts
-
+<section id="Handouts">
+</section>
 |Handout|Solution|
 |-------|--------|
 |[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)|[Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)|
