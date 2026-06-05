@@ -17,6 +17,40 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
         
 </blockquote>
 
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="./01_Predator_Prey/">Predator Prey</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How maths models the rise and fall of animal populations in the wild.</p>
+    <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–3rd year · ⏱ 60–90 min · Science, Maths</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="./02_NeuroAI/">Machine Learning</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How a simple neural network learns to recognise patterns and make decisions.</p>
+    <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · CS, Maths, Ethics</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="./03_Multisensory/">Multisensory</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain combines sight and balance to make a more accurate estimate.</p>
+    <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–3rd year · ⏱ 60–90 min · Biology, Maths</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="./04_DecisionMaking/">Decision Making</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain accumulates noisy evidence over time before reaching a decision.</p>
+    <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · Biology, Stats, PE</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="./05_EigenFaces/">Face Recognition</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How computers identify faces using mathematics — with a link to portrait art.</p>
+    <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · Art, CS, Maths</p>
+  </div>
+
+</div>
+
 ## Workshops
 1. [Predator Prey](01_Predator_Prey/index.md) the content (population growth, simple equations, graphing) is suitable for all secondary school students and senior primary (5th–6th class).
 2. [Machine Learning](02_NeuroAI/index.md) the content introduces AI 
