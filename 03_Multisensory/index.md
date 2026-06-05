@@ -22,6 +22,21 @@ It’s an accessible introduction to modelling and data interpretation that conn
 The brain uses a combination of sensory inputs, visual (sight), auditory (sound), proprioception (muscles and joints), and vestibular (velocity and acceleration), to perceive self-motion.
 The box on the lower right shows the location of the vestibular system, which is found in the inner ear (Campos et al 2020).
 
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Lesson Plan and Slides.</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Handouts">Handouts</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
+  </div>
+
+</div>
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8XfjWYMzmk?si=oLEUArvUWvJWDz0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -44,19 +59,16 @@ The Multisensory Integration workshop explores how the brain combines informatio
 
 ## Materials
 
-### Lesson Plan
+<section id="Materials">
+</section>
 
-[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)
 
-
-### Slides
-
-[Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
+|[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)|[Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)|
 
 
 ### Handouts
-<section id="worksheet">
 
+<section id="Handouts">
 </section>
 
 |Handout|Solution|
