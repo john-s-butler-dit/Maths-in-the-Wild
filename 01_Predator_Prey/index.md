@@ -6,6 +6,7 @@ permalink: /01_Predator_Prey/
 
 The workshop takes around 60-90 minutes, it introduces students to mathematical modelling in ecology using predator-prey relationships. Through real-world examples like hares and lynx, students explore how populations grow, interact, and decline depending on food sources and predation.
 
+<img src="./99_Misc/05_Badges/badges Maths in the Wild-5.png">
 The core focus is on:
 
 - The maths of population growth
