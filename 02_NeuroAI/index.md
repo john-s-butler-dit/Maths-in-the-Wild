@@ -16,6 +16,19 @@ Topics include:
 
 - Applications of machine learning, from image recognition to driving.
 
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Lesson Plan and Slides.</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Handouts">Handouts</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
+  </div>
+
+</div>
 
 
 ## Irish School Curriculum Alignment
@@ -31,30 +44,24 @@ The Machine Learning workshop introduces students to how a simple neural network
 | SPHE / CSPE |  Myself and the Wider World; technology in daily life |  Rights and Digital Citizenship; bias and fairness in algorithmic decision-making | — |
 | Religious Education / Philosophy | — | — | Technology and ethics  |
 
+<section id="Materials">
+</section>
 ## Materials
 
-### Lesson Plan
-Start here, includes timing, learning objectives and preparation notes.
+Teachers start with the lesson plan, includes timing, learning objectives and preparation notes.
 
-[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)  
+|[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)  |[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)|
 
+### Handouts
 
-### Slides
-
-[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)
-
-### Worksheet
+<section id="Handouts">
+</section>
 
 | Worksheet | Solution | 
 |---|---|
 | [Machine Learning Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_Solutions.pdf) |
 | [Machine Learning Short Worksheet](WorkSheets/02_MitW_Worksheet_MachineLearning_2page.pdf) | [Solution](WorkSheets/02_MitW_Worksheet_MachineLearning_2page_Solutions.pdf) |
-
-### Mutiple Choice Quiz
-
-[Machine Learning MCQs](MCQs/02_MitW_MCQ_Machine_Learning.pdf)
-
-[Machine Learning MCQs Solutions](MCQs/02_MitW_MCQ_Machine_Learning_Solutions.pdf)
+|[Machine Learning MCQs](MCQs/02_MitW_MCQ_Machine_Learning.pdf)|[Solutions](MCQs/02_MitW_MCQ_Machine_Learning_Solutions.pdf)|
 
 
 
