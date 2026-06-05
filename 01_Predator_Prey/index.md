@@ -87,21 +87,14 @@ What the workshop does mathematically: Students work with population data, plot 
 
 [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
 
-### Worksheet
+### Handouts
 
-[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)
-
-[Predator Prey Worksheet Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)
-
-[Predator Prey 2-page Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page.pdf)
-
-[Predator Prey 2-page Worksheet Solutions](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page_Solutions.pdf)
-
-### Mutiple Choice Quiz
-
-[Predator Prey MCQ](MCQs/01_MitW_MCQs_Predator_Prey.pdf)
-
-[Predator Prey MCQ Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)
+|Handout|Solution|
+|-------|--------|
+|[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)|[Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)|
+|[Predator Prey 2-page Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page.pdf)|
+[Solutions](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page_Solutions.pdf)|
+|[Predator Prey MCQ](MCQs/01_MitW_MCQs_Predator_Prey.pdf)|[Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)|
 
 
 
