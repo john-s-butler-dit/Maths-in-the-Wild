@@ -54,20 +54,16 @@ The Multisensory Integration workshop explores how the brain combines informatio
 [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)
 
 
-### Worksheet
+### Handouts
 <section id="worksheet">
 
 </section>
-
-[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)
-
-[Multisensory Worksheet Solution](WorkSheets/03_MitW_Worksheet_Multisensory_Solutions.pdf)
-
-### Mutiple Choice Quiz
-
-[Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf)
-
-[Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)
+|Handout|Solution|
+|-----|-----|
+|[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)|
+[Solution](WorkSheets/03_MitW_Worksheet_Multisensory_Solutions.pdf)|
+| [Multisensory MCQ](MCQs/03_MitW_MCQs_Multisensory.pdf) |
+[Multisensory MCQ Solutions](MCQs/03_MitW_MCQs_Multisensory_Solutions.pdf)|
 
 
 
