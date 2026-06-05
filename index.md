@@ -52,18 +52,15 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
 
 </div>
 
-
-1. [Predator Prey](01_Predator_Prey/index.md) the content (population growth, simple equations, graphing) is suitable for all secondary school students and senior primary (5th–6th class).
-2. [Machine Learning](02_NeuroAI/index.md) the content introduces AI 
-3. [Multisensory Integration](03_Multisensory/index.md)
-4. [Decision Making](04_DecisionMaking/index.md)
-5. [Face Recognition](05_EigenFaces/index.md)
-6. The Spread of Disease (Coming Soon)
-7. Maths of Memory (Coming Soon)
-8. Music of Maths (In development)
-9. Statistics of Sports (In development)
-
 The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+## Future Workshops 
+1. The Spread of Disease 
+2. Maths of Memory 
+3. Music of Maths 
+4. Statistics of Sports 
+
+
 
 ![MATHS IN THE WILD FLYER](https://github.com/user-attachments/assets/dbf14801-501d-457f-8ff9-7df77a99db15)
 
