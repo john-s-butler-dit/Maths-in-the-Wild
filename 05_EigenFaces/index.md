@@ -15,10 +15,6 @@ It connects:
 - How computers use Eigenfaces and machine learning to recognise and re-create faces.
 - The presentation culminates in the idea that only a few images are needed to form a mathematical “portrait”, an Eigenface, representing the essence of a person, not just their appearance.
 
-![PHOTO-2024-08-26-11-12-45](https://github.com/user-attachments/assets/6b69d003-331a-4c0c-a731-6c9c9dfcfebd)
-
-
-
 
 <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
@@ -33,6 +29,12 @@ It connects:
   </div>
 
 </div>
+
+![PHOTO-2024-08-26-11-12-45](https://github.com/user-attachments/assets/6b69d003-331a-4c0c-a731-6c9c9dfcfebd)
+
+
+
+
 
 
 
