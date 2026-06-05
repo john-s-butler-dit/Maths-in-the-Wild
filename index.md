@@ -16,6 +16,7 @@ let us explore the world. Nicole combines her knowledge of mathematics and the o
 For teachers: Each workshop on this site is self-contained and ready to use. You'll find a lesson plan, presentation slides, a student worksheet with solutions, and a multiple choice quiz. Workshops are designed to run in a double class period (60–90 minutes) and require no specialist equipment beyond a projector. Download the lesson plan first to see exactly what's involved. There are two worksheets 
         
 </blockquote>
+## Workshops
 
 <div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
@@ -51,7 +52,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
 
 </div>
 
-## Workshops
+
 1. [Predator Prey](01_Predator_Prey/index.md) the content (population growth, simple equations, graphing) is suitable for all secondary school students and senior primary (5th–6th class).
 2. [Machine Learning](02_NeuroAI/index.md) the content introduces AI 
 3. [Multisensory Integration](03_Multisensory/index.md)
