@@ -1,4 +1,4 @@
-d---
+---
 layout: page
 title: Face Recognition
 permalink: /05_EigenFaces/
