@@ -62,7 +62,7 @@ The Multisensory Integration workshop explores how the brain combines informatio
 <section id="Materials">
 </section>
 
-
+|---|---|
 |[Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf)|[Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx)|
 
 
