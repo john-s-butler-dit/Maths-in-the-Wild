@@ -58,6 +58,7 @@ The Multisensory Integration workshop explores how the brain combines informatio
 <section id="worksheet">
 
 </section>
+
 |Handout|Solution|
 |-----|-----|
 |[Multisensory Worksheet](WorkSheets/03_MitW_Worksheet_Multisensory.pdf)|
