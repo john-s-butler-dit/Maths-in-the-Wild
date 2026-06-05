@@ -1,4 +1,4 @@
----
+d---
 layout: page
 title: Face Recognition
 permalink: /05_EigenFaces/
@@ -19,7 +19,22 @@ It connects:
 
 
 
-## Materials
+
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Lesson Plan and Slides.</p>
+  </div>
+
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#Handouts">Handouts</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
+  </div>
+
+</div>
+
+
 
 # Face Recognition Workshop — Cross-Curricular Links
 
@@ -36,37 +51,26 @@ The Face Recognition workshop explores how computers identify faces using a math
 | Applied Mathematics | — | — | Mathematical Modelling strand |
 | SPHE / CSPE | identity and self-image | ethics of facial recognition technology; privacy rights  | — |
 
-### Lesson Plan
 
-[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)
+<section id="Materials">
+</section>
 
-### Slides
+## Materials
 
+|-----|----|
+|[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)|[Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)|
 
+### Handouts
 
-[Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)
+<section id="Handouts">
+</section>
 
-### Worksheets
-
-[Face Recognition Maths Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog.pdf) 
-
-[Face Recognition Maths Worksheet Example Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_Solutions.pdf)
-
-
-[Face Recognition Art Worksheet](Worksheets/DigitalMirror_handout.pdf)
-
-
-[Face Recognition Shorter Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog_2page.pdf) 
-
-
-[Face Recognition Worksheet Shorter Example Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_2page_Solutions.pdf)
-
-
-### Mutiple Choice Quiz
-
-[Face Recognition MCQ](MCQs/05_MitW_MCQs_Digital_Mirror.pdf)
-
-[Face Recognition MCQ Solutions](MCQs/05_MitW_MCQs_Digital_Mirror_Solutions.pdf)
+|Handout|Solution|
+|-----|----|
+|[Face Recognition Maths Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog.pdf) |[Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_Solutions.pdf)|
+|[Face Recognition Art Worksheet](Worksheets/DigitalMirror_handout.pdf)|
+|[Face Recognition Shorter Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog_2page.pdf) | [Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_2page_Solutions.pdf)|
+|[Face Recognition MCQ](MCQs/05_MitW_MCQs_Digital_Mirror.pdf)| [Solutions](MCQs/05_MitW_MCQs_Digital_Mirror_Solutions.pdf)|
 
 [Face Recognition online MCQ](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUNlpYSUpZNzdBQUJVQk4wVERHSllIUExLSi4u)
 
