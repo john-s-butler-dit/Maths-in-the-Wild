@@ -29,13 +29,12 @@ It links the maths model to real brain processes and encourages students to see 
 
 </div>
 
-## Materials
 
-# Decision Making Workshop — Cross-Curricular Links
+
+## Curriculum Links
 
 The Decision Making workshop explores how the brain reaches a conclusion under uncertainty, using a mathematical framework called the drift-diffusion model. Rather than deciding instantly, the brain accumulates noisy evidence over time until it crosses a threshold — and the workshop shows how adjusting that threshold creates a fundamental trade-off between speed and accuracy. 
 
-## Curriculum Links
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
@@ -49,7 +48,7 @@ The Decision Making workshop explores how the brain reaches a conclusion under u
 
 <section id="Materials">
 </section>
-
+## Materials
 
 
 | [Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx) | [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf) |
