@@ -48,7 +48,8 @@ The Decision Making workshop explores how the brain reaches a conclusion under u
 
 <section id="Materials">
 </section>
-## Materials
+
+### Materials
 
 
 | [Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx) | [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf) |
