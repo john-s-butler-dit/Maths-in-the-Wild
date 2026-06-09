@@ -1,4 +1,4 @@
----
+f---
 layout: page
 title: Decision Making
 permalink: /04_DecisionMaking/
@@ -51,6 +51,7 @@ The Decision Making workshop explores how the brain reaches a conclusion under u
 
 ### Materials
 
+Start here — includes timing, learning objectives and preparation notes.
 
 | [Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx) | [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf) |
 
