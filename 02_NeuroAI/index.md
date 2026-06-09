@@ -36,7 +36,7 @@ The Machine Learning workshop introduces students to how a simple neural network
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
-| Mathematics | Number and Algebra  | Number and Algebra  | Algebra; Functions |
+| Mathematics | Data and Chance  | Number and Algebra  | Algebra; Functions |
 | Science | Working Scientifically  | Nature of Science | — |
 | Computer Science | — | Coding and Computational Thinking  | AI and Machine Learning; Applied Learning Tasks in Python |
 | Applied Mathematics | — | — | Mathematical Modelling |
