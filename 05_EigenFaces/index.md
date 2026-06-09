@@ -59,6 +59,8 @@ The Face Recognition workshop explores how computers identify faces using a math
 
 ## Materials
 
+Start here — includes timing, learning objectives and preparation notes.
+
 |-----|----|
 |[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)|[Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)|
 
