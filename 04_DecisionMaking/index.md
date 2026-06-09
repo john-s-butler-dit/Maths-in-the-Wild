@@ -73,6 +73,14 @@ This workshop was originally created for [Neuromatch](https://neuromatch.io) for
 
 <img src="Maths_in_the_Wild_DecisionMaking.gif" alt="Decision Making" width="450"/>
 
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+
+### Feedback Forms
+
+|[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
+
 ## References
 
 Hoxha, I., Mudrik, N., Urai, A. E., Kienigiel, D., Forest, J., Abdelhack, M., Peters, M., Halper, N., Zhang, R.-Y., Lu, X., & Butler, J. S. (2023, August 24–27). Opening Computational Neuroscience to a Wider Audience: Virtual Escape Room for Kids [Poster presentation]. Conference on Cognitive Computational Neuroscience, Oxford, United Kingdom. https://doi.org/10.32470/CCN.2023.1197-0
