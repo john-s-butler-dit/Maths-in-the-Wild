@@ -92,10 +92,11 @@ What the workshop does mathematically: Students work with population data, plot 
 <section id="Materials">
 </section>
 
-[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) Start here — includes timing, learning objectives and preparation notes.
+Start here — includes timing, learning objectives and preparation notes.
 
 
-[Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)
+|-------|--------|
+|[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) | [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)|
 
 ### Handouts
 <section id="Handouts">
