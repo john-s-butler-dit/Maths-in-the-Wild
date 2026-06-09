@@ -4,7 +4,7 @@ title: Machine Learning
 permalink: /02_NeuroAI/
 ---
 
-This interactive workshop connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions - like whether to run from a tiger — and how computers are being taught to do the same.
+This 90 minute interactive workshop connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions - like whether to run from a tiger — and how computers are being taught to do the same.
 
 Topics include:
 
@@ -36,7 +36,7 @@ The Machine Learning workshop introduces students to how a simple neural network
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
-| Mathematics | Number and Algebra  | — | Algebra; Functions |
+| Mathematics | Number and Algebra  | Number and Algebra  | Algebra; Functions |
 | Science | Working Scientifically  | Nature of Science | — |
 | Computer Science | — | Coding and Computational Thinking  | AI and Machine Learning; Applied Learning Tasks in Python |
 | Applied Mathematics | — | — | Mathematical Modelling |
