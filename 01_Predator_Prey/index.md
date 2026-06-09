@@ -96,7 +96,8 @@ Start here — includes timing, learning objectives and preparation notes.
 
 
 |-------|--------|
-|[Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) | [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx)|
+| [Predator Prey Teacher Lesson Plan](LessonPlan/01_MitW_LessonPlan_Predator_Prey.pdf) | [Predator Prey Slides](Maths_in_the_Wild_Predator_Prey.pptx) |
+
 
 ### Handouts
 <section id="Handouts">
