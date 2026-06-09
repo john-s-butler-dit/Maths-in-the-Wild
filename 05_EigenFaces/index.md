@@ -88,6 +88,14 @@ This workshop was originally developed during Cian’s artist residency at the T
 
 <img src="Maths_in_the_Wild_DigitalMirror.gif" alt="Digital Mirror Slides" width="450"/>
 
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+
+### Feedback Forms
+
+|[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
+
 ## References
 
 McLoughlin, C. (2024, August 23). The Digital Mirror: TCIN and Dr John Butler at the Dublin Makers Festival, Richmond Barracks. Retrieved June 9, 2025, from https://www.cianmcloughlin.com/news/35-the-digital-mirror-tcin-and-dr-john-butler-at-the-dublin/ 
