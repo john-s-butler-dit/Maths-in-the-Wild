@@ -34,10 +34,10 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <h3 style="margin:0 0 0.5rem;"><a href="./02_NeuroAI/">Machine Learning</a></h3>
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How a simple neural network learns to recognise patterns and make decisions.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · CS, Maths, Ethics</p>
+          <center>
         <img src="99_Misc/05_Badges/GIFS/02_MachineLearning.gif" 
      alt="Tiger" 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">
-  </div>
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">          </center>  </div>
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="./03_Multisensory/">Multisensory</a></h3>
