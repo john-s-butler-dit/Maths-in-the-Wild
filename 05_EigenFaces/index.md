@@ -46,6 +46,7 @@ It connects:
 
 <section id="curriculum">
 </section>
+
 ## Irish curriculum alignment
 
 The Face Recognition workshop explores how computers identify faces using a mathematical technique called Eigenfaces, in which each face image is represented as a grid of numbers and then expressed as a weighted combination of a small set of key patterns. The core mathematical idea is dimensionality reduction — taking a highly complex object (a human face) and finding a compact numerical description that still captures what makes it recognisable. This workshop is unique among the five in having a genuine and developed cross-curricular link with Art, supported by a collaboration with Irish portrait artist Cian McLoughlin, which makes it particularly well suited to Transition Year and cross-departmental projects. 
