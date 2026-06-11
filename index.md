@@ -63,8 +63,7 @@ The material is released under [CC-BY-NC](https://creativecommons.org/licenses/b
   <ul>
     <li>📧 <strong>Dr John Butler</strong> — <a href="mailto:john.butler@tudublin.ie">john.butler@tudublin.ie</a></li>
   </ul>
-  <p>We'd love to hear how the workshops went — please also consider filling in the
-    <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u">Teacher Feedback Form</a>.
+  <p>We'd love to hear how the workshops went:
   </p>
 </section>
 
