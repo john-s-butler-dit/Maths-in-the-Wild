@@ -93,9 +93,18 @@ This workshop was originally developed during Cian’s artist residency at the T
 The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
 
-### Feedback Forms
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Have a question about the workshops, want to arrange a session for your school, or have feedback to share?</p>
+  <ul>
+    <li>📧 <strong>Dr John Butler</strong> — <a href="mailto:john.butler@tudublin.ie">john.butler@tudublin.ie</a></li>
+  </ul>
+  <p>We'd love to hear how the workshops went:
+  </p>
+</section>
 
 |[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
 
 
 ## References
