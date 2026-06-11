@@ -16,7 +16,7 @@ It connects:
 - The presentation culminates in the idea that only a few images are needed to form a mathematical “portrait”, an Eigenface, representing the essence of a person, not just their appearance.
 
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
@@ -28,6 +28,13 @@ It connects:
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
   </div>
 
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#curriculum">Curriculum Aligment</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
+  </div>
+
+
+
 </div>
 
 ![PHOTO-2024-08-26-11-12-45](https://github.com/user-attachments/assets/6b69d003-331a-4c0c-a731-6c9c9dfcfebd)
@@ -37,12 +44,12 @@ It connects:
 
 
 
+<section id="curriculum">
+</section>
 
-# Face Recognition Workshop — Cross-Curricular Links
+## Irish curriculum alignment
 
 The Face Recognition workshop explores how computers identify faces using a mathematical technique called Eigenfaces, in which each face image is represented as a grid of numbers and then expressed as a weighted combination of a small set of key patterns. The core mathematical idea is dimensionality reduction — taking a highly complex object (a human face) and finding a compact numerical description that still captures what makes it recognisable. This workshop is unique among the five in having a genuine and developed cross-curricular link with Art, supported by a collaboration with Irish portrait artist Cian McLoughlin, which makes it particularly well suited to Transition Year and cross-departmental projects. 
-
-## Curriculum Links
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
@@ -59,13 +66,16 @@ The Face Recognition workshop explores how computers identify faces using a math
 
 ## Materials
 
+Start here — includes timing, learning objectives and preparation notes.
+
 |-----|----|
 |[Face Recognition Teacher Lesson Plan](LessonPlan/05_MitW_LessonPlan_FaceRecog.pdf)|[Face Recognition Slides](Maths_in_the_Wild_DigitalMirror.pptx)|
 
-### Handouts
-
 <section id="Handouts">
 </section>
+
+### Handouts
+
 
 |Handout|Solution|
 |-----|----|
@@ -87,6 +97,23 @@ This workshop was originally developed during Cian’s artist residency at the T
 
 
 <img src="Maths_in_the_Wild_DigitalMirror.gif" alt="Digital Mirror Slides" width="450"/>
+
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Have a question about the workshops, want to arrange a session for your school, or have feedback to share?</p>
+  <ul>
+    <li>📧 <strong>Dr John Butler</strong> — <a href="mailto:john.butler@tudublin.ie">john.butler@tudublin.ie</a></li>
+  </ul>
+  <p>We'd love to hear how the workshops went:
+  </p>
+</section>
+
+|[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
+
 
 ## References
 

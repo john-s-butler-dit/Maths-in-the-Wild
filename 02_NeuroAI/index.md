@@ -4,7 +4,7 @@ title: Machine Learning
 permalink: /02_NeuroAI/
 ---
 
-This interactive workshop connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions - like whether to run from a tiger — and how computers are being taught to do the same.
+This 90 minute interactive workshop connects neuroscience and machine learning through the lens of survival: how the brain helps us make fast decisions - like whether to run from a tiger — and how computers are being taught to do the same.
 
 Topics include:
 
@@ -16,7 +16,8 @@ Topics include:
 
 - Applications of machine learning, from image recognition to driving.
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
@@ -28,15 +29,25 @@ Topics include:
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
   </div>
 
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#curriculum">Curriculum Aligment</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
+  </div>
+
 </div>
 
 
-## Irish School Curriculum Alignment
+
+<section id="curriculum">
+</section>
+
+## Irish curriculum alignment
+
 The Machine Learning workshop introduces students to how a simple neural network unit — the perceptron — makes decisions by multiplying inputs, summing the results, and applying a threshold rule. While the workshop is rooted in mathematics, it connects naturally to a wide range of subjects across all three levels of the Irish curriculum, from SESE Science and SPHE in primary school through to Computer Science, Applied Mathematics, and Philosophy at Leaving Certificate. 
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
 |---|---|---|---|
-| Mathematics | Number and Algebra  | — | Algebra; Functions |
+| Mathematics | Data and Chance  | Number and Algebra  | Algebra; Functions |
 | Science | Working Scientifically  | Nature of Science | — |
 | Computer Science | — | Coding and Computational Thinking  | AI and Machine Learning; Applied Learning Tasks in Python |
 | Applied Mathematics | — | — | Mathematical Modelling |
@@ -46,16 +57,19 @@ The Machine Learning workshop introduces students to how a simple neural network
 
 <section id="Materials">
 </section>
+
 ## Materials
 
 Teachers start with the lesson plan, includes timing, learning objectives and preparation notes.
 
 |[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)  |[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)|
 
-### Handouts
-
 <section id="Handouts">
 </section>
+
+### Handouts
+
+
 
 | Worksheet | Solution | 
 |---|---|
@@ -70,6 +84,22 @@ Teachers start with the lesson plan, includes timing, learning objectives and pr
 ### Certificate of Completion
 
 [Machine Learning Cert](Cert/02_MitW_Certificate.pdf)
+
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Have a question about the workshops, want to arrange a session for your school, or have feedback to share?</p>
+  <ul>
+    <li>📧 <strong>Dr John Butler</strong> — <a href="mailto:john.butler@tudublin.ie">john.butler@tudublin.ie</a></li>
+  </ul>
+  <p>We'd love to hear how the workshops went:
+  </p>
+</section>
+
+|[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
 
 ## References
 

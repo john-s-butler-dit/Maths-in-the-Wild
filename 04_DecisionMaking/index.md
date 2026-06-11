@@ -1,4 +1,4 @@
----
+f---
 layout: page
 title: Decision Making
 permalink: /04_DecisionMaking/
@@ -15,7 +15,8 @@ It links the maths model to real brain processes and encourages students to see 
 
 
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
@@ -27,11 +28,19 @@ It links the maths model to real brain processes and encourages students to see 
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
   </div>
 
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#curriculum">Curriculum Aligment</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
+  </div>
+
 </div>
 
 
 
-## Curriculum Links
+<section id="curriculum">
+</section>
+
+## Irish curriculum alignment
 
 The Decision Making workshop explores how the brain reaches a conclusion under uncertainty, using a mathematical framework called the drift-diffusion model. Rather than deciding instantly, the brain accumulates noisy evidence over time until it crosses a threshold — and the workshop shows how adjusting that threshold creates a fundamental trade-off between speed and accuracy. 
 
@@ -51,11 +60,16 @@ The Decision Making workshop explores how the brain reaches a conclusion under u
 
 ### Materials
 
+Start here — includes timing, learning objectives and preparation notes.
 
 | [Decision Making Slides](Maths_in_the_Wild_DecisionMaking.pptx) | [Decision Making Teacher Lesson Plan](LessonPlan/04_MitW_Lesson_Plan_DecisionMaking.pdf) |
 
 
-### Worksheet
+
+<section id="Handouts">
+</section>
+
+### Handouts
 
 
 |Handout|Solution|
@@ -72,6 +86,23 @@ The Decision Making workshop explores how the brain reaches a conclusion under u
 This workshop was originally created for [Neuromatch](https://neuromatch.io) for Kids, and a more adult-friendly version (written with Rebecca Brady) appears on RTÉ Brainstorm, exploring the maths behind another everyday decision: [“Should I have another pint or go home?”](https://www.rte.ie/brainstorm/2025/1013/1390329-maths-neuroscience-decisions-brain-behaviour/)
 
 <img src="Maths_in_the_Wild_DecisionMaking.gif" alt="Decision Making" width="450"/>
+
+The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
+
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Have a question about the workshops, want to arrange a session for your school, or have feedback to share?</p>
+  <ul>
+    <li>📧 <strong>Dr John Butler</strong> — <a href="mailto:john.butler@tudublin.ie">john.butler@tudublin.ie</a></li>
+  </ul>
+  <p>We'd love to hear how the workshops went:
+  </p>
+</section>
+
+|[Student Feedback Form](https://forms.office.com/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUMFBNWFY4R1hDUjU2SjRNU0xKR1o2Q0RYTi4u) | [Teacher Feedback Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=yxdjdkjpX06M7Nq8ji_V2q-wIvl2CEdBnFykVKs9cpNUOTVMWE0zVUhJVTVPUEpGTUQyVDdXNEs3Vi4u)| 
+
+
 
 ## References
 
