@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More Maths Resources
+title: Additional Resources
 permalink: /99_Misc/
 ---
 
