@@ -13,7 +13,7 @@ John combines his knowledge of mathematics and neuroscience to create experiment
 let us explore the world. Nicole combines her knowledge of mathematics and the oceans to understand the natural world. The workshops were initially written for the [TU Dublin Access and Outreach programme](https://www.tudublin.ie/connect/access-outreach/). 
 
 <blockquote>
-For teachers: Each workshop on this site is self-contained and ready to use. You'll find a lesson plan, presentation slides, a student worksheet with solutions, and a multiple choice quiz. Workshops are designed to run in a double class period (60–90 minutes) and require no specialist equipment beyond a projector. Download the lesson plan first to see exactly what's involved. There are two worksheets a long one and a two page one that is more appropriate for a students below transition year.
+For teachers: Each workshop on this site is self-contained and ready to use. You'll find a lesson plan, presentation slides, student worksheets with solutions, and a multiple choice quiz with solutions. Workshops are designed to run in a double class period (60–90 minutes) and require no specialist equipment beyond a projector. Download the lesson plan first to see exactly what's involved. There are two worksheets a long one and a two page one that is more appropriate for a students below transition year.
         
 </blockquote>
 
@@ -26,7 +26,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How maths models the rise and fall of animal populations in the wild.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–6th year · ⏱ 60–90 min · Science, Maths</p>
               <center>
-    <img src="99_Misc/05_Badges/GIFS/01_PredatorPrey.gif" 
+    <img src="99_Misc/05_Badges/GIFS/MEDIUM/01_PredatorPrey.gif" 
      alt="Predator prey population simulation" 
      style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
   </div>
@@ -36,7 +36,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How a simple neural network learns to recognise patterns and make decisions.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · CS, Maths, Ethics</p>
           <center>
-        <img src="99_Misc/05_Badges/GIFS/02_MachineLearning.gif" 
+        <img src="99_Misc/05_Badges/GIFS/MEDIUM/02_MachineLearning.gif" 
      alt="Tiger" 
      style="width:80%; border-radius:4px; margin-bottom:0.75rem;">          </center>  </div>
 
@@ -45,7 +45,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain combines sight and balance to make a more accurate estimate.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–3rd year · ⏱ 60–90 min · Biology, Maths</p>
               <center>
-                <img src="99_Misc/05_Badges/GIFS/03_Multisensory.gif" 
+                <img src="99_Misc/05_Badges/GIFS/MEDIUM/03_Multisensory.gif" 
      alt="Bear" 
      style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
   </div>
@@ -55,7 +55,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain accumulates noisy evidence over time before reaching a decision.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · Biology, Stats, PE</p>
               <center>
-<img src="99_Misc/05_Badges/GIFS/04_DecisionMaking.gif" 
+<img src="99_Misc/05_Badges/GIFS/MEDIUM/04_DecisionMaking.gif" 
      alt="Cute Dog" 
      style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
      
@@ -66,7 +66,7 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How computers identify faces using mathematics — with a link to portrait art.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–6th year · ⏱ 60–90 min · Art, CS, Maths</p>
                         <center>
-<img src="99_Misc/05_Badges/GIFS/05_DigitalMirror.gif" 
+<img src="99_Misc/05_Badges/GIFS/MEDIUM/05_DigitalMirror.gif" 
      alt="Cian " 
      style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
      
