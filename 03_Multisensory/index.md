@@ -39,10 +39,7 @@ The box on the lower right shows the location of the vestibular system, which is
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
   </div>
 
-
-
-
-
+  </div>
 
 
 <section id="curriculum">
