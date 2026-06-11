@@ -16,7 +16,8 @@ Topics include:
 
 - Applications of machine learning, from image recognition to driving.
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
@@ -28,10 +29,20 @@ Topics include:
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
   </div>
 
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#curriculum">Curriculum Aligment</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
+  </div>
+
 </div>
 
 
-## Irish School Curriculum Alignment
+
+<section id="curriculum">
+</section>
+
+## Irish curriculum alignment
+
 The Machine Learning workshop introduces students to how a simple neural network unit — the perceptron — makes decisions by multiplying inputs, summing the results, and applying a threshold rule. While the workshop is rooted in mathematics, it connects naturally to a wide range of subjects across all three levels of the Irish curriculum, from SESE Science and SPHE in primary school through to Computer Science, Applied Mathematics, and Philosophy at Leaving Certificate. 
 
 | Subject | Primary | Junior Cycle | Leaving Cert |
@@ -46,16 +57,19 @@ The Machine Learning workshop introduces students to how a simple neural network
 
 <section id="Materials">
 </section>
+
 ## Materials
 
 Teachers start with the lesson plan, includes timing, learning objectives and preparation notes.
 
 |[Machine Learning Teacher Lesson Plan](LessonPlan/02_MitW_LessonPlan_MachineLearning.pdf)  |[Machine Learning Slides](Maths_in_the_Wild_MachineLearning.pptx)|
 
-### Handouts
-
 <section id="Handouts">
 </section>
+
+### Handouts
+
+
 
 | Worksheet | Solution | 
 |---|---|
