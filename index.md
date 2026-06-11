@@ -25,9 +25,10 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <h3 style="margin:0 0 0.5rem;"><a href="./01_Predator_Prey/">Predator Prey</a></h3>
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How maths models the rise and fall of animal populations in the wild.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–6th year · ⏱ 60–90 min · Science, Maths</p>
+              <center>
     <img src="99_Misc/05_Badges/GIFS/01_PredatorPrey.gif" 
      alt="Predator prey population simulation" 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
@@ -43,19 +44,20 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <h3 style="margin:0 0 0.5rem;"><a href="./03_Multisensory/">Multisensory</a></h3>
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain combines sight and balance to make a more accurate estimate.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–3rd year · ⏱ 60–90 min · Biology, Maths</p>
+              <center>
                 <img src="99_Misc/05_Badges/GIFS/03_Multisensory.gif" 
      alt="Bear" 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="./04_DecisionMaking/">Decision Making</a></h3>
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How the brain accumulates noisy evidence over time before reaching a decision.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 TY–6th year · ⏱ 60–90 min · Biology, Stats, PE</p>
-          
+              <center>
 <img src="99_Misc/05_Badges/GIFS/04_DecisionMaking.gif" 
      alt="Cute Dog" 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
      
   </div>
 
@@ -63,10 +65,10 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
     <h3 style="margin:0 0 0.5rem;"><a href="./05_EigenFaces/">Face Recognition</a></h3>
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">How computers identify faces using mathematics — with a link to portrait art.</p>
     <p style="margin:0; font-size:0.8rem; color:#888;">🎓 1st–6th year · ⏱ 60–90 min · Art, CS, Maths</p>
-                    
+                        <center>
 <img src="99_Misc/05_Badges/GIFS/05_DigitalMirror.gif" 
      alt="Cian " 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
      
   </div>
 
