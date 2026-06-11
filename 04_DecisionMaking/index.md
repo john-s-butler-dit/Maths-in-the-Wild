@@ -33,8 +33,6 @@ It links the maths model to real brain processes and encourages students to see 
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
   </div>
 
-
-
 </div>
 
 
