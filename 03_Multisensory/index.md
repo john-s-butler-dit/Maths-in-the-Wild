@@ -22,7 +22,7 @@ It’s an accessible introduction to modelling and data interpretation that conn
 The brain uses a combination of sensory inputs, visual (sight), auditory (sound), proprioception (muscles and joints), and vestibular (velocity and acceleration), to perceive self-motion.
 The box on the lower right shows the location of the vestibular system, which is found in the inner ear (Campos et al 2020).
 
-<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap:1.5rem; margin:2rem 0;">
+<div style="display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:1.5rem; margin:2rem 0;">
 
   <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
     <h3 style="margin:0 0 0.5rem;"><a href="#Materials">Materials</a></h3>
@@ -34,14 +34,23 @@ The box on the lower right shows the location of the vestibular system, which is
     <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Worksheets and MCQs</p>
   </div>
 
-</div>
+  <div style="border:1px solid #ddd; border-radius:8px; padding:1.25rem;">
+    <h3 style="margin:0 0 0.5rem;"><a href="#curriculum">Curriculum Aligment</a></h3>
+    <p style="margin:0 0 0.75rem; font-size:0.9rem; color:#555;">Primary and Secondary</p>
+  </div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o8XfjWYMzmk?si=oLEUArvUWvJWDz0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-## Curriculum Links
+
+
+<section id="curriculum">
+</section>
+
+## Irish curriculum alignment
+
+
 
 The Multisensory Integration workshop explores how the brain combines information from multiple senses — such as sight, balance, and touch — to produce a single, more accurate estimate of what is happening in the world. The core mathematical idea is the weighted average: the brain gives more weight to whichever sense is most reliable in a given situation, and by combining signals in this way it outperforms any single sense alone. 
 
@@ -57,19 +66,22 @@ The Multisensory Integration workshop explores how the brain combines informatio
 | SPHE | understanding how my body works | — | — |
 
 
-## Materials
 
 <section id="Materials">
 </section>
 
+## Materials
+
+
 |-----|-----|
 | [Multisensory Teacher Lesson Plan](LessonPlan/03_MitW_Lesson_Plan_Multisensory.pdf) | [Multisensory Slides](Maths_in_the_Wild_Multisensory.pptx) |
 
+<section id="Handouts">
+</section>
 
 ### Handouts
 
-<section id="Handouts">
-</section>
+
 
 Start here — includes timing, learning objectives and preparation notes.
 
@@ -90,6 +102,7 @@ Start here — includes timing, learning objectives and preparation notes.
 
 The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8XfjWYMzmk?si=oLEUArvUWvJWDz0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <section id="contact">
   <h2>Contact</h2>
