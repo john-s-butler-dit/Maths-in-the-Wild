@@ -1,4 +1,4 @@
-f---
+---
 layout: page
 title: Decision Making
 permalink: /04_DecisionMaking/
