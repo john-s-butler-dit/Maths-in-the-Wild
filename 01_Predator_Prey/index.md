@@ -112,12 +112,11 @@ Start here — includes timing, learning objectives and preparation notes.
 <section id="Handouts">
 </section>
 
-### Handouts
-
+## Handouts
 
 |Handout|Solution|
 |-------|--------|
-|[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)|[Solutions](WorkSheets/01_MitW_Predator_PreyWorksheet_Solutions.pdf)|
+|[Predator Prey Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey.pdf)|[Solutions](WorkSheets/01_MitW_Worksheet_Predator_Prey_Solutions.pdf)|
 |[Predator Prey 2-page Worksheet](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page.pdf)|[Solutions](WorkSheets/01_MitW_Worksheet_Predator_Prey_2page_Solutions.pdf)|
 |[Predator Prey MCQ](MCQs/01_MitW_MCQs_Predator_Prey.pdf)|[Solutions](MCQs/01_MitW_MCQs_Predator_Prey_Solutions.pdf)|
 
