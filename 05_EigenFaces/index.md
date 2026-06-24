@@ -80,7 +80,7 @@ Start here — includes timing, learning objectives and preparation notes.
 |Handout|Solution|
 |-----|----|
 |[Face Recognition Maths Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog.pdf) |[Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_Solutions.pdf)|
-|[Face Recognition Art Worksheet](Worksheets/05_MitW_WorksheetArt.pdf)| [Solution](WorkSheets/05_MitW_WorksheetArt_Solution.pdf)|
+|[Face Recognition Art Worksheet ](Worksheets/05_MitW_WorksheetArt.pdf)| [Solution](WorkSheets/05_MitW_WorksheetArt_Solution.pdf)|
 |[Face Recognition Shorter Worksheet](WorkSheets/05_MitW_Worksheet_FaceRecog_2page.pdf) | [Solution](WorkSheets/05_MitW_Worksheet_FaceRecog_2page_Solutions.pdf)|
 |[Face Recognition MCQ](MCQs/05_MitW_MCQs_Digital_Mirror.pdf)| [Solutions](MCQs/05_MitW_MCQs_Digital_Mirror_Solutions.pdf)|
 
