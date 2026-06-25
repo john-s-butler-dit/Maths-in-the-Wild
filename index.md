@@ -67,11 +67,10 @@ For teachers: Each workshop on this site is self-contained and ready to use. You
                         <center>
 <img src="99_Misc/05_Badges/GIFS/MEDIUM/05_DigitalMirror.gif" 
      alt="Cian " 
-     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>
-     
+     style="width:80%; border-radius:4px; margin-bottom:0.75rem;">    </center>     
   </div>
-
 </div>
+
 
 The material is released under [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/?utm_source=substack&utm_medium=email). Feel free to share and adapt them. 
 
